@@ -1,0 +1,170 @@
+:root {
+	--sl-color-white: #2c2b29;
+	--sl-color-gray-1: #2c2b29;
+	--sl-color-gray-2: #3b3934;
+	--sl-color-gray-3: #514f4a;
+	--sl-color-gray-4: #8a877f;
+	--sl-color-gray-5: #c5c1b8;
+	--sl-color-gray-6: #eeece7;
+	--sl-color-gray-7: #f7f6f2;
+	--sl-color-black: #fffefa;
+	--sl-color-accent-low: #e8e7f7;
+	--sl-color-accent: #171080;
+	--sl-color-accent-high: #0d0759;
+	--sl-color-bg: #fffefa;
+	--sl-color-bg-nav: #f7f6f2;
+	--sl-color-bg-sidebar: #fffefa;
+	--sl-color-bg-inline-code: #eeece7;
+	--sl-color-bg-accent: #171080;
+	--sl-color-hairline-light: #eeece7;
+	--sl-color-hairline: #d9d6cf;
+	--sl-color-hairline-shade: #d9d6cf;
+	--sl-color-text: #3b3934;
+	--sl-color-text-accent: #171080;
+	--sl-color-text-invert: #fffefa;
+	--sl-color-orange-low: #f4e5bd;
+	--sl-font: 'Trebuchet MS', 'Segoe UI', sans-serif;
+}
+
+:root[data-theme='dark'] {
+	--sl-color-white: #f8f7fb;
+	--sl-color-gray-1: #e6e4eb;
+	--sl-color-gray-2: #b9b7c0;
+	--sl-color-gray-3: #888691;
+	--sl-color-gray-4: #55535d;
+	--sl-color-gray-5: #3b3a43;
+	--sl-color-gray-6: #29292f;
+	--sl-color-gray-7: #1d1d23;
+	--sl-color-black: #101014;
+	--sl-color-accent-low: #292565;
+	--sl-color-accent: #aaa6ff;
+	--sl-color-accent-high: #e1e0ff;
+	--sl-color-bg: #101014;
+	--sl-color-bg-nav: #16161b;
+	--sl-color-bg-sidebar: #16161b;
+	--sl-color-bg-inline-code: #29292f;
+	--sl-color-bg-accent: #e1e0ff;
+	--sl-color-hairline-light: #3b3a43;
+	--sl-color-hairline: #55535d;
+	--sl-color-hairline-shade: #101014;
+	--sl-color-text: #b9b7c0;
+	--sl-color-text-accent: #aaa6ff;
+	--sl-color-text-invert: #101014;
+	--sl-color-orange-low: #5f4815;
+}
+
+:root,
+:root[data-theme='dark'] {
+	--sl-color-orange: #b47d00;
+	--sl-color-orange-high: #d8a52b;
+}
+
+header.header {
+	border-bottom: 3px solid var(--sl-color-orange);
+}
+
+header.header .site-title img {
+	width: auto;
+	max-width: 9.5rem;
+	max-height: 3rem;
+	object-fit: contain;
+}
+
+body:has(.hero) header.header .site-title {
+	display: none;
+}
+
+body:has(.hero) .content-panel {
+	padding-top: 0;
+}
+
+main {
+	background-image: linear-gradient(120deg, transparent 0%, rgba(180, 125, 0, 0.035) 100%);
+}
+
+.hero {
+	position: relative;
+	isolation: isolate;
+	display: grid;
+	grid-template-columns: minmax(0, 7fr) minmax(10rem, 4fr);
+	align-items: center;
+	gap: clamp(1.5rem, 5vw, 4rem);
+	overflow: hidden;
+	max-width: none;
+	min-height: 28rem;
+	margin-inline: calc(50% - 50vw);
+	padding: clamp(5rem, 14vw, 9rem) max(1.5rem, calc((100vw - 72rem) / 2));
+	background:
+		linear-gradient(90deg, rgba(12, 9, 22, 0.86) 0%, rgba(12, 9, 22, 0.58) 52%, rgba(12, 9, 22, 0.2) 100%),
+		url('../assets/banner.jpeg') center center / cover no-repeat;
+	border-bottom: 4px solid var(--sl-color-orange);
+	box-shadow: inset 0 -35px 55px rgba(0, 0, 0, 0.25);
+}
+
+.hero > img {
+	width: min(100%, 25rem);
+	height: auto;
+	margin-inline: auto;
+	object-fit: contain;
+}
+
+.hero h1 {
+	max-width: 46rem;
+	color: var(--sl-color-white);
+}
+
+.hero .copy,
+.hero .copy p,
+.hero .copy a:not(.sl-link-button) {
+	color: var(--sl-color-white);
+}
+
+.hero .tagline {
+	max-width: 42rem;
+	color: rgba(255, 255, 255, 0.88);
+}
+
+.hero .sl-link-button.minimal {
+	color: var(--sl-color-white);
+	border-color: rgba(255, 255, 255, 0.7);
+}
+
+.hero .sl-link-button.primary {
+	color: #fffefa;
+	background-color: #171080;
+	border-color: #171080;
+}
+
+@media (max-width: 50rem) {
+	.hero {
+		grid-template-columns: 1fr;
+		gap: 1.5rem;
+		min-height: 24rem;
+		background-position: 62% center;
+		padding: 4rem max(1.25rem, 5vw) 5rem;
+	}
+
+	.hero > img {
+		grid-row: 1;
+		width: min(70vw, 15rem);
+	}
+
+	.hero h1 {
+		font-size: clamp(2rem, 9vw, 3rem);
+	}
+}
+
+.sidebar-content a[aria-current='page'] {
+	text-decoration-color: var(--sl-color-orange);
+	text-decoration-thickness: 2px;
+}
+
+.sl-link-button.primary {
+	background-color: var(--sl-color-accent);
+	border-color: var(--sl-color-accent);
+}
+
+.sl-link-button.primary:hover {
+	background-color: var(--sl-color-accent-high);
+	border-color: var(--sl-color-accent-high);
+}

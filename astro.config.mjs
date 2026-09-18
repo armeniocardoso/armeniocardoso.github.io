@@ -6,19 +6,34 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
+			title: 'CulturaTec',
+			description: 'Tutoriais práticos de Engenharia de Software orientados a projetos.',
+			locales: {
+				root: { label: 'Português (Brasil)', lang: 'pt-BR' },
+			},
+			logo: {
+				src: './src/assets/logo_banner.jpg',
+				replacesTitle: true,
+			},
+			customCss: ['./src/styles/custom.css'],
 			sidebar: [
 				{
-					label: 'Guides',
+					label: 'Engenharia de Software',
+					items: [{ autogenerate: { directory: 'engenharia-de-software' } }],
+				},
+				{
+					label: 'Orientação a Objetos',
 					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
+						{ slug: 'orientacao-a-objetos' },
+						{ slug: 'orientacao-a-objetos/introducao_java' },
+						{ slug: 'orientacao-a-objetos/introducao' },
+						{ slug: 'orientacao-a-objetos/propriedades_metodos' },
+						{ slug: 'orientacao-a-objetos/heranca' },
 					],
 				},
 				{
-					label: 'Reference',
-					items: [{ autogenerate: { directory: 'reference' } }],
+					label: 'Domain-Driven Design',
+					items: [{ autogenerate: { directory: 'domain-driven-design' } }],
 				},
 			],
 		}),
