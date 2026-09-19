@@ -78,6 +78,24 @@ body:has(.hero) .content-panel {
 	padding-top: 0;
 }
 
+body:not(:has(.hero)) .sl-markdown-content {
+	max-width: none;
+}
+
+body:not(:has(.hero)) .content-panel {
+	padding-inline: clamp(1rem, 3vw, 2.5rem);
+}
+
+body:not(:has(.hero)) .main-pane {
+	--sl-content-margin-inline: 0;
+	width: 100%;
+}
+
+body:not(:has(.hero)) .sl-markdown-content,
+body:not(:has(.hero)) .sl-markdown-content :is(h1, h2, h3, p, li) {
+	text-align: left;
+}
+
 main {
 	background-image: linear-gradient(120deg, transparent 0%, rgba(180, 125, 0, 0.035) 100%);
 }
@@ -167,4 +185,40 @@ main {
 .sl-link-button.primary:hover {
 	background-color: var(--sl-color-accent-high);
 	border-color: var(--sl-color-accent-high);
+}
+
+body:has(.sl-markdown-content img[alt='Notas de Aulas'])
+	.sl-markdown-content img[alt='Notas de Aulas'],
+body:has(.sl-markdown-content img[alt='Livros: Engenharia de Software'])
+	.sl-markdown-content img[alt='Livros: Engenharia de Software'],
+body:has(.sl-markdown-content img[alt='Livros e Profissões'])
+	.sl-markdown-content img[alt='Livros e Profissões'] {
+	width: 200px;
+	height: 200px;
+	object-fit: cover;
+}
+
+.newsletter-grid {
+	display: grid;
+	grid-template-columns: repeat(3, minmax(0, 1fr));
+	gap: 1.5rem;
+	align-items: start;
+}
+
+.newsletter-grid > p {
+	margin: 0;
+}
+
+.newsletter-grid img {
+	width: 200px;
+	height: 200px;
+	max-width: 100%;
+	margin: 0 auto;
+	object-fit: cover;
+}
+
+@media (max-width: 50rem) {
+	.newsletter-grid {
+		grid-template-columns: 1fr;
+	}
 }

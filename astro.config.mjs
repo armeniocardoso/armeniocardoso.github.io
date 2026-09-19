@@ -10,6 +10,7 @@ export default defineConfig({
 		starlight({
 			title: 'CulturaTec',
 			description: 'Tutoriais práticos de Engenharia de Software orientados a projetos.',
+			favicon: '/favicon.ico',
 			locales: {
 				root: { label: 'Português (Brasil)', lang: 'pt-BR' },
 			},
@@ -17,8 +18,24 @@ export default defineConfig({
 				src: './src/assets/logo_banner.jpg',
 				replacesTitle: true,
 			},
+			social: [
+        		{
+            		icon: 'youtube',
+            		label: 'YouTube',
+            		href: 'https://youtube.com/@culturatec',
+        		},				
+				{
+    				icon: 'instagram',
+    				label: 'Instagram',
+    				href: 'https://www.instagram.com/culturatec_engsoft',
+				},
+    		],
 			customCss: ['./src/styles/custom.css'],
 			sidebar: [
+				{
+					label: 'CulturaTEC',
+					items: [{ autogenerate: { directory: 'inicio' } }],
+				},
 				{
 					label: 'Engenharia de Software',
 					items: [{ autogenerate: { directory: 'engenharia-de-software' } }],
