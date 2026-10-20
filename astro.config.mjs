@@ -41,6 +41,7 @@ export default defineConfig({
 					items: [
 						{ slug: 'programacao-iniciantes' },
 						{ slug: 'programacao-iniciantes/pensamento-computacional' },
+						{ slug: 'programacao-iniciantes/conceito-de-logica' },
 					],
 				},
 				{
