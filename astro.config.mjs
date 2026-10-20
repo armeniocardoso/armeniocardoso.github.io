@@ -4,7 +4,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://armeniocardoso.github.io',
+	site: 'https://culturatec.com.br',
 	base: '/',
 	integrations: [
 		starlight({
@@ -35,6 +35,13 @@ export default defineConfig({
 				{
 					label: 'CulturaTEC',
 					items: [{ autogenerate: { directory: 'inicio' } }],
+				},
+				{
+					label: 'Programação para Iniciantes',
+					items: [
+						{ slug: 'programacao-iniciantes' },
+						{ slug: 'programacao-iniciantes/pensamento-computacional' },
+					],
 				},
 				{
 					label: 'Engenharia de Software',
