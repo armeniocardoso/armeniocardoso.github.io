@@ -1,7 +1,8 @@
 ---
-title: O Conceito de Lógica: Fundamentos para Programação
+title: O Conceito de Lógica - Fundamentos para Programação
 description: Entenda os conceitos de lógica, premissas, raciocínio dedutivo e indutivo, lógica booleana e operadores lógicos aplicados à programação.
 ---
+
 Lógica é uma área de conhecimento bem antiga, que dialoga com a filosofia, a matemática e a física. Nos últimos anos, nós a associamos diretamente à computação e à programação. Não estamos falando de uma ciência nova, mas de algo que existe desde que o ser humano começou a pensar e a questionar.
 
 Um dos primeiros pensadores da era antiga a tratar a lógica de forma mais metódica foi Sócrates. Ele passava o conhecimento oralmente para seus discípulos. A lógica é um sistema usado para distinguir entre argumentos corretos e incorretos. Em um debate ou troca de informações, buscamos a argumentação nas frases. A lógica inclui o conjunto de princípios que, quando aplicados a argumentos, nos permitem demonstrar algo verdadeiro.
