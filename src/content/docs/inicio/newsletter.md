@@ -1,6 +1,6 @@
 ---
 title: Newsletters no LinkedIn
-description: Newsletters no LinkedIn
+description: Reflexões sobre Engenharia de Software, programação, livros e práticas profissionais, com conteúdos publicados pela CulturaTEC no LinkedIn.
 ---
 
 <div class="newsletter-grid">

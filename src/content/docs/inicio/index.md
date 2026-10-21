@@ -1,6 +1,6 @@
 ---
 title: CulturaTEC Engenharia de Software e Programação
-description: Artigos e tutoriais práticos sobre Engenharia de Software, Arquitetura de Software, Java, Domain-Driven Design (DDD), React e desenvolvimento orientado a projetos.
+description: Conheça a proposta da CulturaTEC, seus conteúdos educacionais, canais de publicação e iniciativas para compartilhar conhecimento em desenvolvimento de software.
 ---
 Um canal sobre Engenharia de Software, programação, tecnologia e formação profissional, criado para transformar conhecimento técnico em pensamento prático.
 

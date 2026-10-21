@@ -1,6 +1,6 @@
 ---
 title: Canais nas Redes Sociais
-description: Canais nas Redes Sociais
+description: Acompanhe os conteúdos da CulturaTEC no YouTube e no LinkedIn, com reflexões, aulas e materiais sobre Engenharia de Software e programação.
 ---
 <div class="newsletter-grid">
 

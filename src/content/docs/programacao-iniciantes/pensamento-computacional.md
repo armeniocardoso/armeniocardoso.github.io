@@ -1,6 +1,6 @@
 ---
 title: Pensamento Computacional na Resolução de Problemas
-description: Como o Pensamento Computacional pode revolucionar a sua forma de resolver problemas.
+description: Aprenda a decompor problemas, identificar padrões, abstrair informações e elaborar algoritmos para construir soluções de programação.
 ---
 Como resolver problemas do cotidiano usando lógica e algoritmos?
 

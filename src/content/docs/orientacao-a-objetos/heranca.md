@@ -1,6 +1,6 @@
 ---
 title: Herança
-description: Aprenda a aplicar herança em Java, com foco em reutilização, sobrescrita e encapsulamento.
+description: Entenda como funciona a herança em Java, como subclasses reutilizam e especializam comportamentos e quais cuidados tomar ao sobrescrever métodos.
 ---
 
 **Desvendando a Herança no Java: Do Conceito ao Código Impecável**
