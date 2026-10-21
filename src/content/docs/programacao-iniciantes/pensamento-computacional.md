@@ -81,3 +81,11 @@ Por fim, o reconhecimento de padrões pode ser aplicado na identificação de si
 Quando falamos de máquinas que jogam xadrez ou preveem o clima e a bolsa de valores, estamos lidando com inteligência artificial. Existe uma distância enorme entre o cérebro humano e o computador, embora essa diferença esteja diminuindo. As ferramentas de computação são usadas pela máquina, mas existem outras técnicas envolvidas.
 
 No aprendizado de máquina, ou machine learning, a máquina é alimentada com uma quantidade absurda de dados para encontrar abstração, reconhecimento de padrões, decomposição e algoritmos. Uma pessoa não tem como olhar para a Biblioteca Nacional e descobrir instantaneamente qual livro possui as poesias com as métricas mais perfeitas. A máquina consegue fazer isso porque ela processa e analisa essa base de dados gigantesca em segundos, identificando se foi Camões ou Fernando Pessoa. A inteligência artificial atua como um grande moedor de dados, o que é um processo diferente do raciocínio crítico e estruturado de um ser humano aplicando o Pensamento Computacional.
+
+## Referências externas
+
+- Wing, J. M. (2006). [Computational Thinking](https://doi.org/10.1145/1118178.1118215). *Communications of the ACM*, 49(3), 33–35.
+- ISTE; CSTA (2011). [Operational Definition of Computational Thinking for K–12 Education](https://www.computacional.com.br/files/Guias%20e%20Relatorios/ISTE-CSTA/ISTE-CSTA-computational-thinking-operational-definition-flyer.pdf).
+- MIT Press. [Teaching Computational Thinking](https://mitpress.mit.edu/9780262361835/teaching-computational-thinking/).
+- Bell, T.; Witten, I. H.; Fellows, M. [Computer Science Unplugged](https://www.csunplugged.org/en/).
+- National Research Council (2011). [Report of a Workshop on the Pedagogical Aspects of Computational Thinking](https://doi.org/10.17226/13170).

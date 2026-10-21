@@ -1,6 +1,6 @@
 ---
-title: O Conceito de Lógica
-description: O que é Lógica e como ela se aplica na programação.
+title: O Conceito de Lógica: Fundamentos para Programação
+description: Entenda os conceitos de lógica, premissas, raciocínio dedutivo e indutivo, lógica booleana e operadores lógicos aplicados à programação.
 ---
 Lógica é uma área de conhecimento bem antiga, que dialoga com a filosofia, a matemática e a física. Nos últimos anos, nós a associamos diretamente à computação e à programação. Não estamos falando de uma ciência nova, mas de algo que existe desde que o ser humano começou a pensar e a questionar.
 
@@ -81,3 +81,10 @@ O operador NOT representa a negação. A missão dele não é encadear proposiç
 O operador IMPLIES é a implicação ou condicional. Ele afirma que há uma correlação entre duas declarações, funcionando como a palavra logo em português. Se afirmamos que uma pessoa é engenheira química, logo ela pode fazer uma pós-graduação, estamos criando uma consequência. A segunda proposição é consequência da primeira. Essa é uma correlação unidirecional, o que significa que não podemos inverter a ordem lógica a partir da conclusão.
 
 O operador de equivalência, conhecido como se e somente se, é o operador bicondicional. Ele se comporta de maneira semelhante à implicação, mas atua de forma bidirecional. Isso significa que a segunda proposição é influenciada apenas pela primeira, e vice-versa. Se a primeira for verdadeira, a segunda é verdadeira. Se a primeira for falsa, a segunda será falsa, sem exceções.
+
+## Referências externas
+
+- [Propositional Logic — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/logic-propositional/)
+- [Types of Inferences — OpenStax](https://openstax.org/books/introduction-philosophy/pages/5-4-types-of-inferences)
+- [An Investigation of the Laws of Thought — George Boole](https://openlibrary.org/books/OL33179161M/An_investigation_of_the_laws_of_thought)
+- [Computação Desplugada — UNICAMP](https://www.desplugada.ime.unicamp.br/)
