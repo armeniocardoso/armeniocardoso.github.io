@@ -1,10 +1,7 @@
 ---
-title: Seja Bem Vindo!
-description: Home Page
+title: CulturaTEC: Engenharia de Software e Programação
+description: Artigos e tutoriais práticos sobre Engenharia de Software, Arquitetura de Software, Java, Domain-Driven Design (DDD), React e desenvolvimento orientado a projetos.
 ---
-
-# CulturaTEC — Tecnologia para quem quer entender, não apenas usar
-
 Um canal sobre Engenharia de Software, programação, tecnologia e formação profissional, criado para transformar conhecimento técnico em pensamento prático.
 
 Aqui você encontra conceitos fundamentais, explicações objetivas, experiências de projetos e reflexões sobre o trabalho de quem desenvolve software.
