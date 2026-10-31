@@ -7,7 +7,7 @@ Este espaço reúne conteúdos sobre o processo de desenvolvimento de software, 
 
 ## Tópicos
 
-- Requisitos e análise
-- Arquitetura e design
-- Qualidade e testes
-- Processos e práticas de desenvolvimento
+- Requisitos e Análise
+- Arquitetura e Design
+- Qualidade e Desempenho
+- Processos e Práticas de Desenvolvimento
