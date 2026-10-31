@@ -47,7 +47,7 @@ export default defineConfig({
 				{
 					label: 'Engenharia de Software',
 					items: [
-						{ slug: 'auditoria-desempenho-otimizacao-aplicacoes-web' },
+						{ slug: 'engenharia-de-software/qualidade-desempenho/auditoria-desempenho-otimizacao-aplicacoes-web' },
 					],
 				},
 				{
