@@ -222,3 +222,8 @@ body:has(.sl-markdown-content img[alt='Livros e Profissões'])
 		grid-template-columns: 1fr;
 	}
 }
+
+.logo {
+	width: 200px;
+	height: 200px;
+}
