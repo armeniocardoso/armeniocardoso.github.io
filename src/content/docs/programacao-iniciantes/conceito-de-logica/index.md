@@ -30,7 +30,7 @@ Outras formas de expressão, como perguntas ou comandos, não podem ser consider
 ![](./images/image_mvwc6y5e_tk3b.jpg)
 
 
-Ao desenvolver um sistema, você vai entrevistar os usuários interessados, relacionar os problemas a serem resolvidos e as necessidades dessas pessoas. Você terá uma atenção especial a essas afirmações. Em um sistema acadêmico, podemos relacionar algumas regras de negócio que são consideradas afirmações verdadeiras e como Engenheiro de Software você precisa validar essas regras. 
+Ao desenvolver um sistema, você vai entrevistar os usuários interessados, relacionar os problemas a serem resolvidos e as necessidades dessas pessoas. Você terá uma atenção especial a essas afirmações. Em um sistema acadêmico, podemos relacionar algumas regras de negócio que são consideradas afirmações verdadeiras e como Engenheiro de Software você precisa validar essas regras.
 
 A instituição de ensino pode pedir para desenvolver um sistema de matrículas e estabelecer que menores de quinze anos não podem fazer cursos à noite. Essa é uma afirmação que será considerada verdadeira. Na hora de fazer a matrícula, o sistema deve verificar se a data de nascimento do aluno, comparada com o dia de hoje, faz com que ele seja menor de quinze anos. Se ele for maior de quinze anos e o curso for noturno, a matrícula é permitida. Caso contrário, o sistema deve exibir uma mensagem informando a regra de negócio.
 
@@ -106,4 +106,11 @@ O operador IMPLIES é a implicação ou condicional. Ele afirma que há uma corr
 O operador de equivalência, conhecido como **se e somente se**, é o operador bicondicional. Ele se comporta de maneira semelhante à implicação, mas atua de forma bidirecional. Isso significa que a segunda proposição é influenciada apenas pela primeira, e vice-versa. Se a primeira for verdadeira, a segunda é verdadeira. Se a primeira for falsa, a segunda será falsa, sem exceções.
 
 ![](./images/image_mvwcxxev_741r.jpg)
+
+## Conclusão
+
+
+A proposta deste artigo é apresentar conceitos fundamentais para o estudo sistemático de programação e Engenharia de Software, entendendo a base necessária para a construção de bons algoritmos. Há a motivação e necessidade de compreender claramente os problemas a serem resolvidos, mapeando e validando as premissas, formulando proposições e dominando a linguagem natural de cada ramo dos negócios.
+
+![](./images/image_mvweliwv_rwkf.jpg)
 

@@ -4,21 +4,25 @@ description: Aprenda a decompor problemas, identificar padrões, abstrair inform
 ---
 Como resolver problemas do cotidiano usando lógica e algoritmos?
 
-Nas décadas de 90, não tínhamos um estudo aprofundado sobre as técnicas de programação. A partir dos anos 2000, começamos a ter vários estudos sobre técnicas de programação e psicologia aplicada à programação. Vamos lidar com uma ciência e um aspecto da programação muito interessante e relativamente novo, chamado de Pensamento Computacional.
+Nas décadas de 90, não tínhamos um estudo aprofundado sobre as técnicas de programação. A partir dos anos 2000, começamos a ter vários estudos sobre técnicas de programação e psicologia aplicada à programação. Vamos lidar com uma ciência e um aspecto da programação muito interessante e relativamente novo, chamado de **Pensamento Computacional**.
 
-Vários estudiosos e cientistas se dedicaram a mapear quais são as técnicas que um bom programador emprega para resolver problemas. Eles pensaram que isso não poderia ser algo de elite ou restrito a superdotados. Era necessário mapear como um bom programador pensa e extrair técnicas desse pensamento para ensinar programação a qualquer pessoa. A programação, na cabeça desses cientistas, deve estar ao alcance de qualquer um que queira programar. Isso é uma revolução, porque antigamente ensinávamos programação de forma bastante intuitiva e instrucional, sem uma ciência ou um estudo de como pensa um bom programador. Vocês terão o privilégio de começar esse processo de aprendizado diretamente pelas técnicas mais modernas.
+Vários estudiosos e cientistas se dedicaram a mapear quais são as técnicas que um bom programador emprega para resolver problemas e eles pensaram que isso não poderia ser algo de elite ou restrito a superdotados: era necessário mapear como um bom programador pensa e extrair técnicas desse pensamento para ensinar programação a qualquer pessoa. A programação, na cabeça desses cientistas, deve estar ao alcance de qualquer um que queira programar. Isso é uma revolução, porque antigamente a programação era ensinada de forma bastante intuitiva e instrucional, sem uma ciência ou um estudo de como pensa um bom programador. Atualmente é possível commeçar esse processo de aprendizado diretamente pelas técnicas mais modernas.
 
 ## O que é o Pensamento Computacional
 
-Primeiro, esqueçam as máquinas. Não estamos falando de computadores, mas de pessoas que são bons programadores e do que eles têm em comum na forma de desenvolver o trabalho. O Pensamento Computacional é um conjunto de técnicas da Ciência da Computação que podem ser aplicadas à resolução de problemas nas diversas áreas de conhecimento. Não se trata apenas de computador, mas de qualquer tipo de problema.
+Primeiro, devemos esquecer as máquinas, pois não estamos falando de computadores, mas de pessoas que são bons programadores e do que eles têm em comum na forma de desenvolver o trabalho. O **Pensamento Computacional** é um conjunto de técnicas da **Ciência da Computação** que podem ser aplicadas à resolução de problemas nas diversas áreas de conhecimento. Não se trata apenas de computador, mas de qualquer tipo de problema.
 
-Existe uma pesquisa desenvolvida por trás do Pensamento Computacional que defende a tese de que as escolas deveriam ter uma disciplina a mais, além de português, matemática, geografia e história, focada no Pensamento Computacional. Se as crianças no primário já começassem a pensar usando essas técnicas, chegariam à adolescência e à idade adulta com um raciocínio muito mais eficiente e rápido para resolver problemas. Por essa razão, o tema deve ser inserido ao longo da vida estudantil, sendo comparado às habilidades básicas de leitura, escrita e cálculos matemáticos.
+![](./images/image_mvwds0sa_s2xa.jpg)
 
-A cientista Jeannette Wing definiu que o Pensamento Computacional baseia-se no poder e limite de processos computacionais, sejam eles executados por um humano ou por uma máquina. Métodos e modelos computacionais nos dão a coragem para resolver problemas e projetar sistemas que nenhum de nós seria capaz de enfrentar sozinho. O Pensamento Computacional confronta o enigma da inteligência da máquina, avaliando o que os humanos fazem melhor que os computadores e o que os computadores fazem melhor do que os humanos. De forma mais fundamental, ele trata a questão do que é computável. Resumindo, envolve a resolução de problemas, projeção de sistemas e compreensão do comportamento humano através da extração de conceitos fundamentais da Ciência da Computação.
+Existe uma pesquisa desenvolvida por trás do **Pensamento Computacional** que defende a tese de que as escolas deveriam ter uma disciplina a mais, além de português, matemática, geografia e história, focada no **Pensamento Computacional**. Se as crianças no primário já começassem a pensar usando essas técnicas, chegariam à adolescência e à idade adulta com um raciocínio muito mais eficiente e rápido para resolver problemas. Por essa razão, o tema deve ser inserido ao longo da vida estudantil, sendo comparado às habilidades básicas de leitura, escrita e cálculos matemáticos.
 
-A ideia não é transformar as pessoas em máquinas, mas usar técnicas de computação para resolver problemas do dia a dia. Quando programamos um computador, temos um método de trabalho. Esse jeito de fazer foi extraído da profissão de programador para ser usado no cotidiano. Um advogado, na hora de bolar uma estratégia de defesa, ou um dentista, ao criar uma estratégia para curar um paciente, podem utilizar o Pensamento Computacional.
+A cientista Jeannette Wing definiu que o **Pensamento Computacional** baseia-se no poder e limite de processos computacionais, sejam eles executados por um humano ou por uma máquina. Métodos e modelos computacionais nos dão a coragem para resolver problemas e projetar sistemas que nenhum de nós seria capaz de enfrentar sozinho. O **Pensamento Computacional** confronta o enigma da inteligência da máquina, avaliando o que os humanos fazem melhor que os computadores e o que os computadores fazem melhor do que os humanos. De forma mais fundamental, ele trata a questão do que é computável. Resumindo, envolve a resolução de problemas, projeção de sistemas e compreensão do comportamento humano através da extração de conceitos fundamentais da Ciência da Computação.
+
+A ideia não é transformar as pessoas em máquinas, mas usar técnicas de computação para resolver problemas do dia a dia. Quando programamos um computador, temos um método de trabalho. Esse jeito de fazer foi extraído da profissão de programador para ser usado no cotidiano. Um advogado, na hora de bolar uma estratégia de defesa, ou um dentista, ao criar uma estratégia para curar um paciente, podem utilizar o **Pensamento Computacional**.
 
 Vários cientistas definem o tema de formas complementares. Jeannette Wing destaca o processo de pensamento envolvido na formulação de um problema e na expressão de suas soluções. Dr. Aman Yadav fala sobre a atividade mental para abstrair problemas e formular soluções que podem ser automatizadas. Peter J. Denning menciona a conversão de uma entrada em uma saída e a busca por algoritmos. A técnica que vai acelerar a proficiência em programação chama-se Pensamento Computacional. A diferença do profissional intuitivo para o técnico é que o técnico enxerga o que o intuitivo apenas percebe que existe.
+
+![](./images/image_mvwdtzil_etwa.jpg)
 
 ## Características e Qualidades do Pensamento Computacional
 
@@ -27,6 +31,8 @@ As características do Pensamento Computacional incluem a formulação de proble
 Existem algumas qualidades e evidências de quem aplica essas técnicas. A primeira é ter confiança em lidar com a complexidade, olhando friamente para ela e tentando desatar os nós. A segunda é persistir ao trabalhar com problemas difíceis. Diante de um problema ou de uma prova de programação, a característica do Pensamento Computacional é a persistência, olhando com cuidado para o entorno em busca de soluções.
 
 Outra qualidade é a tolerância para ambiguidades. Na língua portuguesa, por exemplo, existem questões que usam palavras com duplo sentido, como a palavra sua, que pode ser pronome ou do verbo suar. É preciso parar e analisar o contexto para não ser derrubado pela ambiguidade. Por fim, há a capacidade de lidar com problemas em aberto e a capacidade de trabalhar em cooperação, formando grupos de estudo e trocando ideias.
+
+![](./images/image_mvwdw7j3_cegb.jpg)
 
 ## Os Quatro Pilares do Pensamento Computacional
 
@@ -38,7 +44,7 @@ A decomposição é o processo de decomposição de problemas em pequenas partes
 
 ### Reconhecimento de Padrões
 
-O reconhecimento de padrões é a identificação de similaridades e características a fim de resolver problemas de forma eficiente. É a aplicação da sua experiência. Você já passou por aquela situação antes, consequentemente quando o problema aparece de novo, você o reconhece e já sabe resolver. Na computação, especialmente na orientação a objetos, temos os Design Patterns, que são padrões de construção para resolver problemas recorrentes. 
+O reconhecimento de padrões é a identificação de similaridades e características a fim de resolver problemas de forma eficiente. É a aplicação da sua experiência. Você já passou por aquela situação antes, consequentemente quando o problema aparece de novo, você o reconhece e já sabe resolver. Na computação, especialmente na orientação a objetos, temos os Design Patterns, que são padrões de construção para resolver problemas recorrentes.
 
 Na vida cotidiana, aplicamos nossa experiência de problemas passados aos novos. Por exemplo, saber que vai chover porque o vento está forte e as nuvens estão cinzentas, baseando-se em indicadores conhecidos da região. Outro exemplo é prever que o orçamento familiar vai ficar no vermelho se fizermos uma compra grande. Com base em experiências anteriores com o cartão de crédito, a pessoa pode optar por pagar à vista e negociar um desconto em vez de fazer um parcelamento longo.
 
@@ -56,13 +62,16 @@ Outro exemplo é fazer uma reforma em casa continuando a morar nela. Se a casa t
 
 Na programação, se queremos calcular o rendimento de um investimento de dez mil reais com aportes mensais e uma taxa de juros ao longo de cento e vinte meses, precisamos organizar os dados. Primeiro, descobrimos quais são os dados de entrada. Depois, definimos o processamento, que são as fórmulas matemáticas. Por fim, determinamos a saída esperada do programa. Esse passo a passo de entrada, processamento e saída deve ser feito para todos os programas que vocês forem construir.
 
+![](./images/image_mvwdxt0h_u75u.jpg)
+
 ## Aplicações Práticas e Atividades Desplugadas
 
 O Pensamento Computacional pode ser aplicado por qualquer pessoa tentando resolver um problema. Para um cientista da computação, significa o estudo de algoritmos. Para um matemático, pode ser realizar uma fatoração. Para um advogado, é a organização algorítmica para dar conta de vários processos simultaneamente. A lógica e a técnica são as mesmas para qualquer profissão.
 
-É importante esclarecer que o Pensamento Computacional não é a mesma coisa que saber mexer em um computador, tablet ou smartphone. Uma criança pode ter facilidade com tecnologias e redes sociais, mas isso não significa que ela está praticando o Pensamento Computacional. Essa técnica trata do desenvolvimento do raciocínio lógico e do pensamento crítico. Não é aceitar tudo o que se ouve, mas refletir, questionar e buscar esclarecimento.
+É importante esclarecer que o Pensamento Computacional não é a mesma coisa que saber mexer em um computador, tablet ou smartphone. Uma criança pode ter facilidade com tecnologias e redes sociais, mas isso não significa que ela está praticando o Pensamento Computacional. Essa técnica trata do desenvolvimento do raciocínio lógico e do pensamento crítico. **Não é aceitar tudo o que se ouve, mas refletir, questionar e buscar esclarecimento**.
 
 Também não é necessário ter um computador para trabalhar com o Pensamento Computacional. Ele pode ser desenvolvido por meio de atividades desplugadas, que são ações praticadas sem equipamentos eletrônicos. Pessoas, objetos e espaços físicos podem ser utilizados.
+
 
 ## Exemplos de Atividades Desplugadas
 
@@ -74,6 +83,8 @@ A compra de supermercado também é um ótimo exercício. Após as compras, pode
 
 Por fim, o reconhecimento de padrões pode ser aplicado na identificação de sintomas de doenças. Analisando sintomas relatados por órgãos de saúde, como tosse seca, cansaço, febre e dor de garganta, podemos identificar padrões que diferenciam uma gripe, um resfriado ou outras doenças.
 
+![](./images/image_mvwe1mdf_8ztt.jpg)
+
 ## Inteligência Artificial e Pensamento Computacional
 
 É fundamental entender a diferença entre o Pensamento Computacional executado por pessoas e a inteligência artificial. A nossa missão com o Pensamento Computacional é desenvolver habilidades e competências de programação em humanos, ensinando técnicas para sermos melhores em nossos raciocínios.
@@ -81,6 +92,16 @@ Por fim, o reconhecimento de padrões pode ser aplicado na identificação de si
 Quando falamos de máquinas que jogam xadrez ou preveem o clima e a bolsa de valores, estamos lidando com inteligência artificial. Existe uma distância enorme entre o cérebro humano e o computador, embora essa diferença esteja diminuindo. As ferramentas de computação são usadas pela máquina, mas existem outras técnicas envolvidas.
 
 No aprendizado de máquina, ou machine learning, a máquina é alimentada com uma quantidade absurda de dados para encontrar abstração, reconhecimento de padrões, decomposição e algoritmos. Uma pessoa não tem como olhar para a Biblioteca Nacional e descobrir instantaneamente qual livro possui as poesias com as métricas mais perfeitas. A máquina consegue fazer isso porque ela processa e analisa essa base de dados gigantesca em segundos, identificando se foi Camões ou Fernando Pessoa. A inteligência artificial atua como um grande moedor de dados, o que é um processo diferente do raciocínio crítico e estruturado de um ser humano aplicando o Pensamento Computacional.
+
+![](./images/image_mvwe3vur_wm4k.jpg)
+
+## Conclusão
+
+A proposta deste artigo é ampliar o repertório de ferramentas para o aprendizado de programação, empregando técnica e método. O Pensamento Computacional fornece um novo olhar para o desafio de solucionar problemas complexos e caóticos.
+
+O profissional de Engenharia de Software precisa conhecer e lançar mão dessas ferramentas, sobretudo pela necessidade de deixar de fazer de forma intuitiva e passar a fazer de forma sistemática e técnica.
+
+![](./images/image_mvwebdn5_l2rp.jpg)
 
 ## Referências externas
 
