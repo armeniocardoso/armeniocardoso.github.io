@@ -14,9 +14,16 @@ Aprenda. Pense. Construa.
 
 ## Canais nas Redes Sociais
 
-[![LinkedIn](./images/image_mvwfhytd_d6g7.png)](https://www.linkedin.com/in/armeniocardoso/) [![YouTube](./images/image_mvwfz365_hdbe.png)](https://www.youtube.com/@culturatec) [![Instagram](./images/image_mvwg8xnh_6hho.png)](https://www.instagram.com/culturatec_engsoft) [![Facebook](./images/image_mvwg5akp_sn8p.png)](https://www.facebook.com/profile.php?id=61592917557668)
+| <br /> | <br /> | <br /> | <br /> |
+|:---|:---|:---|:---|
+| [![LinkedIn](./images/image_mvwfhytd_d6g7.png "LinkedIn")](https://www.linkedin.com/in/armeniocardoso/) | [![YouTube](./images/image_mvwfz365_hdbe.png "YouTube")](https://www.youtube.com/@culturatec) | [![Instagram](./images/image_mvwg8xnh_6hho.png "Instagram")](https://www.instagram.com/culturatec_engsoft) | [![Facebook](./images/image_mvwg5akp_sn8p.png "Facebook")](https://www.facebook.com/profile.php?id=61592917557668) |
+| <br /> | <br /> | <br /> | <br /> |
+| [![Notas de Aulas](./images/image_mvwgeh0w_s8la.png "Notas de Aulas")](https://www.linkedin.com/newsletters/7133129442578550785) | [![Livros: Engenharia de Software](./images/image_mvwgglpe_e4co.png "Livros: Engenharia de Software")](https://www.linkedin.com/newsletters/7491273700005298176) | [![Livros e Profissões](./images/image_mvwgmgpl_fn7c.png "Livros e Profissões")](https://www.linkedin.com/newsletters/7141807116415148032) | <br /> |
+| <br /> | <br /> | <br /> | <br /> |
 
-## NewsLetters no LinkedIn
 
-[![Notas de Aulas](./images/image_mvwgeh0w_s8la.png)](https://www.linkedin.com/newsletters/7133129442578550785) [![Livros: Engenharia de Software](./images/image_mvwgglpe_e4co.png)](https://www.linkedin.com/newsletters/7491273700005298176) [![Livros e Profissões](./images/image_mvwgmgpl_fn7c.png)](https://www.linkedin.com/newsletters/7141807116415148032)
+
+
+
+
 
