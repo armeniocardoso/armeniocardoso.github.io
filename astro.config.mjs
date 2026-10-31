@@ -46,7 +46,9 @@ export default defineConfig({
 				},
 				{
 					label: 'Engenharia de Software',
-					items: [{ autogenerate: { directory: 'engenharia-de-software' } }],
+					items: [
+						{ slug: 'auditoria-desempenho-otimizacao-aplicacoes-web' },
+					],
 				},
 				{
 					label: 'Orientação a Objetos',
