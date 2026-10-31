@@ -114,3 +114,14 @@ A proposta deste artigo é apresentar conceitos fundamentais para o estudo siste
 
 ![](./images/image_mvweliwv_rwkf.jpg)
 
+## Referências
+
+1. **MORTARI, Cezar A.** Introdução à lógica. 2. ed. São Paulo: Editora UNESP, 2017. Disponível em: [Editora UNESP](https://editoraunesp.com.br/). 
+
+2. **KUDO, Taciana Novo et al.** Introdução à Lógica de Programação. Goiânia: Universidade Federal de Goiás (UFG), 2024. Disponível em: [Publicação e material didático](https://www.inf.ufg.br/).
+
+3. **POZZER, Cesar Tadeu; ASSUNÇÃO, Joaquim Vinicius Carvalho; NUNES, Raul Ceretta.** Algoritmos e lógica de programação. Santa Maria: Editora UFSM, 2025. Disponível em: [Editora UFSM](https://www.ufsm.br/editoras/ufsm).
+
+4. **IEPSEN, Edécio Fernando.** Lógica de Programação e Algoritmos com JavaScript. 2. ed. São Paulo: Novatec, 2022. Disponível em: [Novatec](https://novatec.com.br/).
+
+5. **STEINMETZ, Ernesto Henrique Radis; FONTES, Roberto Duarte.** Cartilha Lógica de Programação. Brasília: Instituto Federal de Brasília (IFB), 2013. Disponível em: [Repositório do IFB](https://repositorio.ifb.edu.br/).

@@ -84,3 +84,17 @@ A última camada é a infraestrutura, que geralmente está fora do controle dire
 A performance não é um checklist final feito apenas na entrega do projeto. É uma disciplina de engenharia integrada desde o primeiro byte construído. O Lighthouse deve ser utilizado continuamente ao longo do processo, a cada nova versão publicada, garantindo que a aplicação se mantenha rápida e eficiente.
 
 ![](./images/image_mvwacbrp_sti2.jpg)
+
+## Referências
+
+1. **CORREIA, Thiago de Almeida; COUTO, Thiciane.** Teste de performance em aplicações Web: garantindo o desempenho de uma aplicação. *Interfaces Científicas – Exatas e Tecnológicas*, v. 1, n. 3, p. 23–30, 2015. Disponível em: [https://doi.org/10.17564/2359-4942.2015v1n3p23-30](https://doi.org/10.17564/2359-4942.2015v1n3p23-30).
+
+2. **GOOGLE.** Como entender o Core Web Vitals e os resultados da pesquisa do Google. Google for Developers. Disponível em: [https://developers.google.com/search/docs/appearance/core-web-vitals?hl=pt-BR](https://developers.google.com/search/docs/appearance/core-web-vitals?hl=pt-BR).
+
+3. **GOOGLE.** Introdução ao Lighthouse. Chrome for Developers. Disponível em: [https://developer.chrome.com/docs/lighthouse/overview?hl=pt-br](https://developer.chrome.com/docs/lighthouse/overview?hl=pt-br).
+
+4. **WEB.DEV.** Auditoria de desempenho. Disponível em: [https://web.dev/articles/performance-audit?hl=pt-BR](https://web.dev/articles/performance-audit?hl=pt-BR).
+
+5. **GOOGLE.** Sobre o PageSpeed Insights. Google for Developers. Disponível em: [https://developers.google.com/speed/docs/insights/v5/about?hl=pt-br](https://developers.google.com/speed/docs/insights/v5/about?hl=pt-br).
+
+6. **OSMANI, Addy.** Engenharia de desempenho da Web na era da IA. O'Reilly Media, 2026. Disponível em: [O'Reilly Media](https://www.oreilly.com/library/view/engenharia-de-desempenho/0642572331740/).

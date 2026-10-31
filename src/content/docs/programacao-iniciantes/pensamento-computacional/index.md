@@ -103,10 +103,14 @@ O profissional de Engenharia de Software precisa conhecer e lançar mão dessas 
 
 ![](./images/image_mvwebdn5_l2rp.jpg)
 
-## Referências externas
+## Referências
 
-- Wing, J. M. (2006). [Computational Thinking](https://doi.org/10.1145/1118178.1118215). *Communications of the ACM*, 49(3), 33–35.
-- ISTE; CSTA (2011). [Operational Definition of Computational Thinking for K–12 Education](https://www.computacional.com.br/files/Guias%20e%20Relatorios/ISTE-CSTA/ISTE-CSTA-computational-thinking-operational-definition-flyer.pdf).
-- MIT Press. [Teaching Computational Thinking](https://mitpress.mit.edu/9780262361835/teaching-computational-thinking/).
-- Bell, T.; Witten, I. H.; Fellows, M. [Computer Science Unplugged](https://www.csunplugged.org/en/).
-- National Research Council (2011). [Report of a Workshop on the Pedagogical Aspects of Computational Thinking](https://doi.org/10.17226/13170).
+1. **WING, Jeannette M.** Pensamento computacional: um conjunto de atitudes e habilidades que todos, não só cientistas da computação, ficaram ansiosos para aprender e usar. *Revista Brasileira de Ensino de Ciência e Tecnologia*, v. 9, n. 2, 2016. Disponível em: [UTFPR](https://periodicos.utfpr.edu.br/rbect/article/view/4711).
+
+2. **VIEIRA, Kayenne Dias; HAI, Alessandra Arce.** O pensamento computacional na educação para um currículo integrado à cultura e ao mundo digital. *Acta Scientiarum. Education*, v. 45, 2023. Disponível em: [SciELO](https://doi.org/10.4025/actascieduc.v45i1.52908).
+
+3. **COSTA, Rodrigo Alves; PEREIRA, Rafaela Samara Oliveira.** Ensino de programação na educação básica por meio do pensamento computacional: um relato de experiência. *Brazilian Journal of Development*, v. 5, n. 8, p. 11594–11606, 2019. Disponível em: [Brazilian Journal of Development](https://doi.org/10.34117/bjdv5n8-031).
+
+4. **FRANÇA, Ervelany Lins de et al.** Pensamento Computacional para a Integração de Práticas de Computação em Sala de aula: uma experiência na formação de professores. *Anais do Simpósio Brasileiro de Computação na Educação Básica*, 2024. Disponível em: [SBC-EB](https://doi.org/10.5753/sbceb.2024.1708).
+
+5. **FOOHS, Marcelo Magalhães; REBOUÇAS, Randerson Oliveira Melville; KRÜGER, Júlia Paes.** Pensamento Computacional e sua identidade conceitual no pós-BNCC: uma análise crítica das ambiguidades persistentes. *Revista Edutec – Educação, Tecnologias Digitais e Formação Docente*, v. 5, n. 1. Disponível em: [Revista Edutec](https://doi.org/10.55028/edutec.v5i1.23231).
