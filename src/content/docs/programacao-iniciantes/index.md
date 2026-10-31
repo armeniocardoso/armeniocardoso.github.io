@@ -17,10 +17,7 @@ O aprendizado da programação pode ser organizado em três etapas complementare
 
 Essas etapas não precisam ser tratadas como barreiras rígidas. Na prática, aprender a programar envolve alternar entre compreender problemas, elaborar soluções, escrever código, testar resultados e corrigir erros.
 
-## Artigos
 
-1. [Pensamento Computacional na Resolução de Problemas](./pensamento-computacional/)
-2. [O Conceito de Lógica](./conceito-de-logica/)
 
 ## Aprender a programar é aprender a resolver problemas
 
