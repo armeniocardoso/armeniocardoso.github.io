@@ -9,9 +9,10 @@ Aqui você encontra conceitos fundamentais, explicações objetivas, experiênci
 
 Da programação aos fundamentos da Engenharia de Software. De Design Patterns e Arquitetura a DDD, sistemas escaláveis, IA e novas formas de desenvolver software.
 
+
 CulturaTEC: Porque tecnologia não é apenas aprender ferramentas. É construir repertório para fazer escolhas melhores.
 
-### Aprenda. Pense. Construa.
+**Aprenda. Pense. Construa.**
 
 ## Presença Digital
 
@@ -41,11 +42,11 @@ A tecnologia evolui, ferramentas surgem e desaparecem, paradigmas se transformam
 
 Não procuro desacelerar: continuo buscando novos desafios, problemas tecnicamente difíceis e oportunidades nas quais minha experiência possa produzir mais impacto.
 
-#### **Continuar aprendendo, construir soluções e compartilhar conhecimento: essa é a essência do CulturaTEC.**
+**Continuar aprendendo, construir soluções e compartilhar conhecimento: essa é a essência do CulturaTEC.**
 
 ## Como o CulturaTEC é Construído
 
-O CulturaTEC é um projeto independente de produção e compartilhamento de conhecimento sobre Engenharia de Software, programação e tecnologia.
+O CulturaTEC é um **projeto independente** de produção e compartilhamento de conhecimento sobre Engenharia de Software, programação e tecnologia.
 
 Seu conteúdo nasce da combinação de experiência profissional, atividade acadêmica, estudos contínuos, pesquisa e experimentação. A tecnologia, incluindo ferramentas de Inteligência Artificial, desempenha um papel importante nesse processo, ajudando a organizar conhecimentos, ampliar a capacidade de produção e explorar novas formas de compartilhar informação.
 
@@ -118,7 +119,7 @@ Novas tecnologias são experimentadas, conteúdos são revisados e conhecimentos
 
 O objetivo é construir, gradualmente, uma base de conhecimento consistente, acessível e duradoura.
 
-#### **Porque compartilhar conhecimento também é uma forma de continuar aprendendo.**
+**Porque compartilhar conhecimento também é uma forma de continuar aprendendo.**
 
 
 
