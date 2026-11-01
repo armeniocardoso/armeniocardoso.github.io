@@ -227,6 +227,22 @@ img[alt="Autor do CulturaTEC"] {
   float: left;
   width: 200px;
   max-width: 40%;
-  margin: 0 24px 16px 0;
+  margin: 15px 15px 15px 15px;
+  border-radius: 12px;
+}
+
+img[alt="Redes Sociais"] {
+  float: left;
+  width: 200px;
+  max-width: 40%;
+  /*margin: 0 24px 16px 0;*/
+  border-radius: 12px;
+}
+
+img[alt="Newsletter"] {
+  float: left;
+  width: 200px;
+  max-width: 40%;
+  /*margin: 0 24px 16px 0;*/
   border-radius: 12px;
 }

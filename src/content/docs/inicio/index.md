@@ -15,13 +15,13 @@ CulturaTEC: Porque tecnologia não é apenas aprender ferramentas. É construir 
 
 ## Presença Digital
 
-| [![LinkedIn](./images/image_mvwfhytd_d6g7.png)](https://www.linkedin.com/in/armeniocardoso/) | [![YouTube](./images/image_mvwfz365_hdbe.png)](https://www.youtube.com/@culturatec) | [![Instagram](./images/image_mvwg8xnh_6hho.png)](https://www.instagram.com/culturatec_engsoft) | [![Facebook](./images/image_mvwg5akp_sn8p.png)](https://www.facebook.com/profile.php?id=61592917557668) |
+| [![Redes Sociais](./images/image_mvwfhytd_d6g7.png)](https://www.linkedin.com/in/armeniocardoso/) | [![Redes Sociais](./images/image_mvwfz365_hdbe.png)](https://www.youtube.com/@culturatec) | [![Redes Sociais](./images/image_mvwg8xnh_6hho.png)](https://www.instagram.com/culturatec_engsoft) | [![Redes Sociais](./images/image_mvwg5akp_sn8p.png)](https://www.facebook.com/profile.php?id=61592917557668) |
 |:---|:---|:---|:---|
-| [![Notas de Aulas](./images/image_mvwgeh0w_s8la.png)](https://www.linkedin.com/newsletters/7133129442578550785) | [![Livros: Engenharia de Software](./images/image_mvwgglpe_e4co.png)](https://www.linkedin.com/newsletters/7491273700005298176) | [![Livros e Profissões](./images/image_mvwgmgpl_fn7c.png)](https://www.linkedin.com/newsletters/7141807116415148032) | <br /> |
+| [![Newsletter](./images/image_mvwgeh0w_s8la.png)](https://www.linkedin.com/newsletters/7133129442578550785) | [![Newsletter](./images/image_mvwgglpe_e4co.png)](https://www.linkedin.com/newsletters/7491273700005298176) | [![Newsletter](./images/image_mvwgmgpl_fn7c.png)](https://www.linkedin.com/newsletters/7141807116415148032) | <br /> |
 
 ## Quem está por trás do CulturaTEC?
 
-![Autor do CulturaTEC](./images/image_mvxwl8nm_kxxd.png)Sou Staff Software Engineer e Tech Leader, com mais de 40 anos de experiência em Engenharia de Software e uma trajetória profissional construída na interseção entre tecnologia, arquitetura de sistemas e educação.
+![Autor do CulturaTEC](./images/image_mvxwl8nm_kxxd.png)Meu nome é Armênio Cardoso, sou Staff Software Engineer e Tech Leader, com mais de 40 anos de experiência em Engenharia de Software e uma trajetória profissional construída na interseção entre tecnologia, arquitetura de sistemas e educação.
 
 Atualmente, sou responsável pela liderança técnica do Gliese, sistema de atendimento da Dasa, atuando em um ambiente de alta complexidade, no qual disponibilidade, desempenho, escalabilidade e evolução tecnológica são desafios permanentes.
 
