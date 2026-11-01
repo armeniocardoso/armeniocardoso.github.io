@@ -222,3 +222,11 @@ body:has(.sl-markdown-content img[alt='Livros e Profissões'])
 		grid-template-columns: 1fr;
 	}
 }
+
+img[alt="Autor do CulturaTEC"] {
+  float: left;
+  width: 200px;
+  max-width: 40%;
+  margin: 0 24px 16px 0;
+  border-radius: 12px;
+}
