@@ -38,9 +38,14 @@ Outra qualidade é a tolerância para ambiguidades. Na língua portuguesa, por e
 
 Existem quatro ferramentas que todo programador usa no dia a dia. Alguns usam de forma intuitiva, enquanto outros conhecem a técnica e tiram o máximo proveito dela.
 
+![](./images/image_mvwdxt0h_u75u.jpg)
+
 ### Decomposição
 
 A decomposição é o processo de decomposição de problemas em pequenas partes. As partes menores podem ser resolvidas separadamente para, em seguida, obtermos a resposta do problema maior. É a ideia de ir por partes. Um exemplo na matemática seria a realização de um cálculo de multiplicação, como dezessete vezes oito. Para fazer de cabeça, podemos quebrar o problema: primeiro fazemos dez vezes oito, depois sete vezes oito, e somamos os resultados.
+
+![](./images/image_mvxv897x_7yxz.jpg)
+
 
 ### Reconhecimento de Padrões
 
@@ -48,11 +53,15 @@ O reconhecimento de padrões é a identificação de similaridades e caracterís
 
 Na vida cotidiana, aplicamos nossa experiência de problemas passados aos novos. Por exemplo, saber que vai chover porque o vento está forte e as nuvens estão cinzentas, baseando-se em indicadores conhecidos da região. Outro exemplo é prever que o orçamento familiar vai ficar no vermelho se fizermos uma compra grande. Com base em experiências anteriores com o cartão de crédito, a pessoa pode optar por pagar à vista e negociar um desconto em vez de fazer um parcelamento longo.
 
+![](./images/image_mvxv90c2_xhvp.jpg)
+
 ### Abstração
 
 A abstração é o processo voltado para a separação detalhada e o tratamento da complexidade de problemas. É remover o que não interessa e dar atenção àquilo que é útil. Por exemplo, se temos a missão de criar um cadastro de alunos para uma escola de tecnologia, os campos relevantes seriam nome, e-mail e telefone. Cor do cabelo, peso e altura não interessam. Porém, se o cadastro fosse para uma escola de cabeleireiros, a cor do cabelo passaria a ser relevante. Se fosse para uma academia, peso e altura fariam sentido. A abstração é esse filtro que exercitamos para organizar os dados que realmente importam conforme o contexto.
 
 Outro exemplo é organizar uma viagem de turismo. Independentemente do destino, o modo de planejar segue uma lógica parecida. Nós abstraímos a parte específica do destino e criamos um roteiro padrão, adicionando as especificidades depois. A abstração ajuda a criar uma espinha dorsal para a resolução do problema.
+
+![](./images/image_mvxv9hwd_g184.jpg)
 
 ### Algoritmos
 
@@ -62,7 +71,8 @@ Outro exemplo é fazer uma reforma em casa continuando a morar nela. Se a casa t
 
 Na programação, se queremos calcular o rendimento de um investimento de dez mil reais com aportes mensais e uma taxa de juros ao longo de cento e vinte meses, precisamos organizar os dados. Primeiro, descobrimos quais são os dados de entrada. Depois, definimos o processamento, que são as fórmulas matemáticas. Por fim, determinamos a saída esperada do programa. Esse passo a passo de entrada, processamento e saída deve ser feito para todos os programas que vocês forem construir.
 
-![](./images/image_mvwdxt0h_u75u.jpg)
+![](./images/image_mvxva82f_2fqe.jpg)
+
 
 ## Aplicações Práticas e Atividades Desplugadas
 
