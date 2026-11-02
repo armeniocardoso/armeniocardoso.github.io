@@ -48,17 +48,18 @@ export default defineConfig({
 				},
 				{
 					label: 'Engenharia de Software',
-					items: [
-						{ slug: 'engenharia-de-software' },
-						{
-							label: 'Boas Práticas',
-							items: [
-								{
-									slug: 'engenharia-de-software/boas-praticas/auditoria-desempenho-otimizacao-aplicacoes-web',
-								},
-							],
-						},
-					],
+					items: [{ autogenerate: { directory: 'engenharia-de-software' } }],
+					// items: [
+					// 	{ slug: 'engenharia-de-software' },
+					// 	{
+					// 		label: 'Boas Práticas',
+					// 		items: [
+					// 			{
+					// 				slug: 'engenharia-de-software/boas-praticas/auditoria-desempenho-otimizacao-aplicacoes-web',
+					// 			},
+					// 		],
+					// 	},
+					// ],
 				},
 				{
 					label: 'Modelagem de Dados e SQL',
