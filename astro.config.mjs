@@ -42,12 +42,28 @@ export default defineConfig({
 						{ slug: 'programacao-iniciantes' },
 						{ slug: 'programacao-iniciantes/pensamento-computacional' },
 						{ slug: 'programacao-iniciantes/conceito-de-logica' },
+						{ slug: 'programacao-iniciantes/algoritmos' },
+						{ slug: 'programacao-iniciantes/programacao' },
 					],
 				},
 				{
 					label: 'Engenharia de Software',
 					items: [
-						{ slug: 'engenharia-de-software/qualidade-desempenho/auditoria-desempenho-otimizacao-aplicacoes-web' },
+						{ slug: 'engenharia-de-software' },
+						{
+							label: 'Boas Práticas',
+							items: [
+								{
+									slug: 'engenharia-de-software/boas-praticas/auditoria-desempenho-otimizacao-aplicacoes-web',
+								},
+							],
+						},
+					],
+				},
+				{
+					label: 'Modelagem de Dados e SQL',
+					items: [
+						{ slug: 'modelagem-dados-sql' },
 					],
 				},
 				{

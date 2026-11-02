@@ -2,7 +2,7 @@
 title: CulturaTEC Engenharia de Software
 description: "Conheça a proposta da CulturaTEC, seus conteúdos educacionais, canais de publicação e iniciativas para compartilhar conhecimento em desenvolvimento de software."
 ---
-## Instiotucional
+## Institucional
 Um canal sobre Engenharia de Software, programação, tecnologia e formação profissional, criado para transformar conhecimento técnico em pensamento prático.
 
 Aqui você encontra conceitos fundamentais, explicações objetivas, experiências de projetos e reflexões sobre o trabalho de quem desenvolve software.
@@ -24,11 +24,11 @@ CulturaTEC: Porque tecnologia não é apenas aprender ferramentas. É construir 
 
 ![Autor do CulturaTEC](./images/image_mvxwl8nm_kxxd.png)Meu nome é Armênio Cardoso, sou Staff Software Engineer e Tech Leader, com mais de 40 anos de experiência em Engenharia de Software e uma trajetória profissional construída na interseção entre tecnologia, arquitetura de sistemas e educação.
 
-Atualmente, sou responsável pela liderança técnica do Gliese, sistema de atendimento da Dasa, atuando em um ambiente de alta complexidade, no qual disponibilidade, desempenho, escalabilidade e evolução tecnológica são desafios permanentes.
+Atualmente, sou responsável pela liderança técnica do Gliese, sistema de atendimento da Dasa, atuando em um ambiente de alta complexidade, no qual disponibilidade, desempenho, escalabilidade e evolução tecnológica são desafios permanente.
 
 Ao longo da minha carreira, acumulei experiência em arquitetura de sistemas complexos, JVM/Java, sistemas distribuídos, integração de aplicações, modernização de sistemas legados, requisitos não funcionais e liderança técnica transversal. Tenho especial interesse por problemas tecnicamente difíceis, especialmente aqueles que exigem compreender sistemas em profundidade, equilibrar decisões arquiteturais e construir soluções sustentáveis.
 
-Minha relação com a tecnologia também sempre esteve ligada à educação. Há mais de 36 anos atuo como professor de Engenharia de Software, compartilhando conhecimentos e experiências com diferentes gerações de profissionais.
+Minha relação com a tecnologia também sempre esteve ligada à educação. Há mais de 36 anos atuo como professor de Engenharia de Software, compartilhando conhecimentos e experiências com diferentes gerações de profissionais. Há mais de 24 anos atuo como professor na Faculdade Infnet, no Rio de Janeiro.
 
 Em 1996, fui pioneiro no ensino e na disseminação da linguagem Java no Brasil. Participei de uma época em que a comunidade Java começava a se formar, levando conhecimento a milhares de desenvolvedores por meio dos primeiros road-shows, cursos e Java Users Groups (JUGs).
 
@@ -73,43 +73,11 @@ Transformar conhecimento em material didático exige mais do que escrever sobre 
 
 O processo editorial do CulturaTEC segue algumas etapas:
 
-#### 1. Captura do conhecimento
-
-Aulas, explicações, experiências profissionais, anotações e estudos constituem fontes importantes de conteúdo.
-
-Sempre que possível, esses materiais são registrados e organizados para que possam ser reutilizados, aprofundados e transformados em novos materiais didáticos.
-
-#### 2. Transcrição e organização
-
-Gravações e materiais de referência podem ser transformados em transcrições e documentos estruturados.
-
-Ferramentas de processamento de áudio e Inteligência Artificial ajudam a identificar assuntos, organizar informações e recuperar exemplos relevantes.
-
-#### 3. Pesquisa e curadoria
-
-Os assuntos são aprofundados por meio de livros, artigos, documentação técnica e outras fontes confiáveis.
-
-Essa etapa é importante para confrontar ideias, atualizar informações, identificar possíveis inconsistências e estabelecer conexões com outros conceitos da Engenharia de Software.
-
-#### 4. Produção editorial
-
-O conhecimento organizado é transformado em diferentes formatos:
-
-- Artigos técnicos e didáticos;
-- Exemplos de código;
-- Diagramas e representações arquiteturais;
-- Roteiros de aulas e materiais de estudo;
-- Publicações para redes sociais e newsletters.
-
-A preocupação principal é preservar a clareza, a precisão técnica e a utilidade prática do conteúdo.
-
-#### 5. Revisão e publicação
-
-Antes da publicação, o material passa por revisão de conteúdo, organização, referências e apresentação.
-
-Os artigos são publicados no CulturaTEC, que funciona como repositório central do conhecimento produzido.
-
-A partir deles, outros formatos de conteúdo podem ser desenvolvidos e distribuídos pelos diferentes canais do projeto.
+1. **Captura do conhecimento**: Aulas, explicações, experiências profissionais, anotações e estudos constituem fontes importantes de conteúdo. Sempre que possível, esses materiais são registrados e organizados para que possam ser reutilizados, aprofundados e transformados em novos materiais didáticos.
+2. **Transcrição e organização**: Gravações e materiais de referência podem ser transformados em transcrições e documentos estruturados.Ferramentas de processamento de áudio e Inteligência Artificial ajudam a identificar assuntos, organizar informações e recuperar exemplos relevantes.
+3. **Pesquisa e curadoria**: Os assuntos são aprofundados por meio de livros, artigos, documentação técnica e outras fontes confiáveis. Essa etapa é importante para confrontar ideias, atualizar informações, identificar possíveis inconsistências e estabelecer conexões com outros conceitos da Engenharia de Software.
+4. **Produção editorial**: O conhecimento organizado é transformado em diferentes formatos, com a preocupação principal de preservar a clareza, a precisão técnica e a utilidade prática do conteúdo.
+5. **Revisão e publicação**: Antes da publicação, o material passa por revisão de conteúdo, organização, referências e apresentação. Os artigos são publicados no CulturaTEC, que funciona como repositório central do conhecimento produzido. A partir deles, outros formatos de conteúdo podem ser desenvolvidos e distribuídos pelos diferentes canais do projeto.
 
 ## Um projeto em constante evolução
 
