@@ -1,6 +1,9 @@
 ---
 title: Algoritmos e Lógica de Programação
 description: "Entenda as diferenças entre os conceitos de lógica e algoritmos."
+sidebar:
+  badge:
+    text: New
 ---
 
 ## Diferença entre Lógica e Algoritmo
