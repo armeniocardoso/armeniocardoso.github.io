@@ -72,7 +72,7 @@ export default defineConfig({
 						{ slug: 'orientacao-a-objetos' },
 						{ slug: 'orientacao-a-objetos/introducao-java' },
 						{ slug: 'orientacao-a-objetos/introducao' },
-						{ slug: 'orientacao-a-objetos/propriedades_metodos' },
+						{ slug: 'orientacao-a-objetos/propriedades-metodos' },
 						{ slug: 'orientacao-a-objetos/heranca' },
 					],
 				},
