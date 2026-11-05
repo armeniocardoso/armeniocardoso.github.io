@@ -19,7 +19,7 @@ A linguagem Java possui o DNA das linguagens C e C++. O criador da linguagem C, 
 
 A linguagem está em constante evolução. O Java de hoje é totalmente diferente da versão um ponto zero de mil novecentos e noventa e seis. É uma plataforma completa e de propósito geral, projetada desde o princípio para resolver desafios de rede e portabilidade, evoluindo sempre de acordo com as demandas da comunidade de desenvolvedores.
 
-![](./images/image_mvzph41f_p3qa.jpg)
+![Uma breve história da linguagem Java](./images/image_mvzph41f_p3qa.jpg)
 
 # Características Principais do Java
 
@@ -29,7 +29,7 @@ Outra característica fundamental é a segurança em termos de tipos de dados e 
 
 A portabilidade é outro pilar da linguagem. Como o Java foi criado originalmente para rodadores em decodificadores de TV de diversos fabricantes, era necessário que o código funcionasse em qualquer hardware físico. O projeto já nasceu com o conceito de escrever o código uma vez e rodá-lo em qualquer ambiente.
 
-![](./images/image_mvzpgaon_lsy8.jpg)
+![O que é o Java?](./images/image_mvzpgaon_lsy8.jpg)
 
 # O Paradigma Orientado a Objetos
 
@@ -40,7 +40,7 @@ Antes da orientação a objetos, o paradigma vigente era a programação procedu
 
 O código orientado a objetos busca resolver isso criando módulos, chamados de classes, que contêm os dados dentro deles. A unidade básica é menor, o que facilita a organização do sistema. Evidentemente, um sistema orientado a objetos também pode ser desorganizado se for mal escrito, mas a proposta do paradigma é justamente facilitar essa estruturação.
 
-![](./images/image_mvzpiq1e_p8ex.jpg)
+![Paradigma orientado a objetos](./images/image_mvzpiq1e_p8ex.jpg)
 
 Existem três pilares fundamentais na implementação da orientação a objetos, que são o encapsulamento, a herança e o polimorfismo.
 
@@ -50,7 +50,7 @@ O encapsulamento é o aspecto que dá identidade aos módulos. Ao nomear um mód
 
 O polimorfismo é a possibilidade de ter funcionalidades que, na teoria, são as mesmas, mas que na prática se adequam conforme o objeto onde estão sendo executadas. Um exemplo prático ocorre nas contas de uma instituição financeira. Existem contas correntes, contas de investimento e contas especiais. A função de sacar dinheiro muda conforme o tipo de conta. O saque em uma conta de investimento pode envolver o cálculo de impostos sobre o rendimento. O saque em uma conta corrente comum tem a restrição do saldo disponível. Já o saque em uma conta especial permite retirar mais dinheiro do que o disponível, associando um empréstimo à operação. A ação de sacar é a mesma, mas o comportamento varia dependendo do objeto.
 
-![](./images/image_mvzpjoac_svfv.jpg)
+![Os três pilares da programação orientada a objetos](./images/image_mvzpjoac_svfv.jpg)
 
 # Java e Inteligência Artificial
 
@@ -78,4 +78,4 @@ Em vez de gerar um arquivo executável específico para Windows, Linux ou macOS,
 
 A grande sacada da equipe criadora do Java foi desenvolver uma máquina virtual específica para cada sistema operacional, mas que aceitasse rodar exatamente o mesmo código intermediário. Existe uma máquina virtual para Windows, outra para Mac, outra para Linux e até para Mainframes. O código executável gerado pelo programador é o mesmo para todas elas. Essa arquitetura é o que garante a verdadeira portabilidade da linguagem, permitindo escrever o código uma única vez e rodá-lo em qualquer hardware.
 
-![](./images/image_mvzpl173_jox7.jpg)
+![Portabilidade de código e o papel da Java Virtual Machine](./images/image_mvzpl173_jox7.jpg)

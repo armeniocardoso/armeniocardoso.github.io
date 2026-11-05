@@ -8,7 +8,7 @@ Inspirado na matemática, Dennis Richie introduziu na linguagem C, que depois pa
 
 Separei o que é propriedade do que é método. Propriedade é o que a classe sabe, é o que você pergunta para ela e ela responde. O método é o que a classe faz, são as ações que a classe executa. O principal conceito deste artigo, e o mais importante de todos, é entender o que a classe sabe e o que a classe faz. É muito importante praticar o conceito de responsabilidade. A classe deve ter preferencialmente uma única responsabilidade. O ideal é que a classe, quando for criada, tenha um único propósito. Baseado nesse modelo, criamos propriedades e métodos para cumprir esse propósito.
 
-![](./images/image_mvzr2a8j_clef.jpg)
+![O que a classe sabe e o que a classe faz](./images/image_mvzr2a8j_clef.jpg)
 
 ## Propriedades e Encapsulamento
 Propriedades, que representam o que a classe sabe, também são chamadas de atributos de instância. Elas guardam o estado e as características dos objetos. Algumas palavras são sinônimas, como atributo e propriedade, que significam a mesma coisa. Em relação aos métodos, eles representam o que a classe faz, definindo a funcionalidade e o comportamento da classe. Como exemplo, podemos ter as propriedades número e saldo, e os métodos depositar e getSaldo.
@@ -27,7 +27,7 @@ Trazendo algumas modelagens de classes um pouco mais avançadas, podemos imagina
 
 Propriedades também aparecem como representação do relacionamento entre classes. Quando duas classes estão relacionadas, é provável que em uma delas apareçam objetos da outra classe. Nesse exemplo, a Pessoa conhece os telefones dela, mas o Telefone não precisa enxergar a Pessoa. O telefone aparece como uma entidade mais fraca e a pessoa como a entidade principal. É uma forma de simplificar a codificação. Na modelagem visual, o sinal de menos ao lado das propriedades significa private, e o sinal de mais significa public.
 
-![](./images/image_mvzr4a69_lln4.jpg)
+![Relacionamento de Pessoa com Telefone](./images/image_mvzr4a69_lln4.jpg)
 
 Outro exemplo é um protótipo de modelagem de um sistema de controle de compras. Empresas precisam controlar seus gastos. O sistema registra quem é o fornecedor, quando o produto foi comprado, qual foi a cotação e quanto foi pago. Isso é necessário porque há rotatividade na empresa. Se o Edmilson, chefe do setor de compras, for promovido e a Carolina for para o lugar dele, o show tem que continuar. O sistema garante que o histórico de negociações não se perca. O sistema de compras possui entidades como Fornecedor, Produto, Contato e Cotações. Na orientação a objetos, utilizamos o termo multiplicidade para definir esses relacionamentos, diferentemente do banco de dados relacional, onde usamos o termo cardinalidade. Como a orientação a objetos não é relacional, não é possível fazer produto cartesiano. É importante ajustar os termos para o contexto correto da orientação a objetos.
 
@@ -38,14 +38,14 @@ Já as propriedades de classe são compartilhadas. Existem situações em que é
 
 Outro exemplo é uma propriedade última matrícula definida como estática. Toda vez que um empregado for instanciado, a última matrícula será compartilhada por todas as instâncias. A lógica é instanciar o empregado, pegar a última matrícula, incrementar de um e atribuir essa matrícula ao empregado. Se a propriedade deve ser compartilhada por ter essa lógica, ela será estática. Se não faz sentido ser compartilhada, como o nome ou a idade, ela será dinâmica. Na memória, a propriedade estática é única, não existem cópias.
 
-![](./images/image_mvzr4zta_fvep.jpg)
+![Propriedades e instância e de classe](./images/image_mvzr4zta_fvep.jpg)
 
 ## Métodos e Interface Pública
 A palavra método vem do grego e significa caminho para chegar a um fim. A lógica da orientação a objetos é esconder as propriedades e forçar a passagem pelos métodos para alterá-las. Na classe Data, as propriedades dia, mês e ano ficam privadas. O método público mudaDia recebe um valor e faz a validação. A validação completa de uma data envolve verificar se o mês está inicializado, se o ano é bissexto, entre outras regras. A função do método é criar um caminho seguro para a alteração dos dados, filtrando as possibilidades e impedindo valores inválidos.
 
 Existem dois papéis diferentes para o programador. O primeiro é atuar na declaração do método, escrevendo a lógica interna, os algoritmos e as estruturas de repetição. O segundo papel é o do desenvolvedor que vai utilizar a classe criada por outra pessoa. Quem utiliza a classe não precisa se preocupar com a implementação interna, assumindo que o código foi revisado e testado. A declaração define o funcionamento interno, enquanto a utilização interage com o objeto conhecendo apenas sua interface pública. O conceito de interface pública refere-se à declaração dos métodos públicos da classe, e não à interface gráfica com o usuário. É a interface pública que permite a interação com a classe.
 
-![](./images/image_mvzr62xq_qith.jpg)
+![Interface pública das classes](./images/image_mvzr62xq_qith.jpg)
 
 ## Métodos de Instância e Métodos de Classe
 Assim como as propriedades, existem métodos de instância e métodos de classe. Métodos de instância são dinâmicos e interagem com propriedades de instância. Métodos de classe são estáticos e interagem com propriedades estáticas ou prestam algum tipo de serviço.
@@ -59,28 +59,28 @@ A sobrecarga ocorre quando existe mais de um método com o mesmo nome na classe,
 
 A sobrecarga serve para atender ao conceito de extensibilidade. Extensibilidade é a capacidade de incluir novas funcionalidades no software sem quebrar o que já estava funcionando. Com o passar do tempo, os requisitos do software mudam. Uma regra de ouro na engenharia de software é evitar tocar em um código que já foi revisado, testado e está em produção. A sobrecarga é a maneira de acrescentar novas funcionalidades sem alterar as que já estão funcionando.
 
-![](./images/image_mvzr6zyg_1wqe.jpg)
+![Assinatura de métodos](./images/image_mvzr6zyg_1wqe.jpg)
 
 ## Construtores e o Operador New
 A criação de um objeto envolve três passos. Primeiro, declarar uma variável com o tipo do objeto. Segundo, usar o operador new para alocar espaço físico de memória. Terceiro, chamar o construtor para inicializar o objeto. O operador new cria o objeto e retorna o endereço desse bloco de memória para a variável.
 
-![](./images/image_mvzr86dt_60y6.jpg)
+![Operador NEW](./images/image_mvzr86dt_60y6.jpg)
 
 Quando uma classe é criada sem um construtor explícito, a linguagem Java fornece um construtor default invisível e sem parâmetros. Se o programador criar um construtor personalizado, o construtor default deixa de existir. O construtor possui regras estritas: sua função exclusiva é inicializar o objeto, seu nome deve ser idêntico ao nome da classe, ele nunca possui tipo de retorno, e toda classe possui pelo menos um construtor.
 
-A sobrecarga também se aplica aos construtores. Se um sistema bancário inicialmente exigia um depósito para abrir uma conta, o construtor recebia o saldo inicial. Se posteriormente surgir o requisito de uma conta salário, que inicia com saldo zero, basta criar um novo construtor sobrecarregado para atender a esse requisito, mantendo o construtor original intacto.![](./images/image_mvzr93pr_b9qo.jpg)
+A sobrecarga também se aplica aos construtores. Se um sistema bancário inicialmente exigia um depósito para abrir uma conta, o construtor recebia o saldo inicial. Se posteriormente surgir o requisito de uma conta salário, que inicia com saldo zero, basta criar um novo construtor sobrecarregado para atender a esse requisito, mantendo o construtor original intacto.![Sobrecarga de construtores](./images/image_mvzr93pr_b9qo.jpg)
 
 
 ## O Uso da Palavra Chave This
 Na linguagem Java, utilizamos a palavra chave this como referência para as propriedades e métodos da própria instância da classe. Existe uma situação chamada shadowing, que ocorre quando criamos uma variável ou parâmetro com o mesmo nome de uma propriedade da classe, ocultando essa propriedade. Para diferenciar o parâmetro da propriedade, usamos o this. Por exemplo, this ponto número refere-se à propriedade do objeto, enquanto apenas número refere-se ao parâmetro recebido.
 
-![](./images/image_mvzraomf_cxnd.jpg)
+![O curinga THIS](./images/image_mvzraomf_cxnd.jpg)
 
 Os nomes das variáveis são muito importantes, e usar os mesmos nomes das propriedades para os parâmetros do construtor é uma boa prática, desde que o this seja utilizado para desambiguação. O this também pode ser usado na sobrecarga de construtores. Quando usado apenas com parênteses, ele atua como uma chamada para outro construtor da mesma classe. Isso evita a duplicação de código. O uso do this como chamada de construtor só pode ser feito dentro de outro construtor e deve ser obrigatoriamente a primeira instrução do bloco.
 
-![](./images/image_mvzrbdf0_khj9.jpg)
+![Encadeamento com THIS](./images/image_mvzrbdf0_khj9.jpg)
 
 ## Resumo dos Conceitos Fundamentais
 Para ter uma visão geral, podemos resumir os conceitos aprendidos em quatro passos. O primeiro passo é o escudo, representado pelos atributos privados que garantem o encapsulamento. O segundo passo é a ignição, que são os construtores sobrecarregados responsáveis por inicializar os objetos. O terceiro passo é a identidade, com o uso do this para proteger o estado da instância e promover a desambiguação. O quarto passo é o DNA, que são as assinaturas de métodos definindo o comportamento externo e a interface pública da classe.
 
-![](./images/image_mvzrc3xq_7bn7.jpg)
+![Resumo dos conceitos fundamentais](./images/image_mvzrc3xq_7bn7.jpg)

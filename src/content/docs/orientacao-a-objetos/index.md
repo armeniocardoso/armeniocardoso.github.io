@@ -7,7 +7,7 @@ Este espaço reúne conteúdos sobre os conceitos, princípios e padrões usados
 
 ## Artigos
 
-1. [Introdução ao Java](./introducao_java/)
+1. [Introdução ao Java](./introducao-java/)
 2. [Introdução à Orientação a Objetos](./introducao/)
-3. [Propriedades e métodos](./propriedades_metodos/)
+3. [Propriedades e métodos](./propriedades-metodos/)
 4. [Herança](./heranca/)

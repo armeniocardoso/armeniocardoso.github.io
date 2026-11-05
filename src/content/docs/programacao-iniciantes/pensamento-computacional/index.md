@@ -12,7 +12,7 @@ Vários estudiosos e cientistas se dedicaram a mapear quais são as técnicas qu
 
 Primeiro, devemos esquecer as máquinas, pois não estamos falando de computadores, mas de pessoas que são bons programadores e do que eles têm em comum na forma de desenvolver o trabalho. O **Pensamento Computacional** é um conjunto de técnicas da **Ciência da Computação** que podem ser aplicadas à resolução de problemas nas diversas áreas de conhecimento. Não se trata apenas de computador, mas de qualquer tipo de problema.
 
-![](./images/image_mvwds0sa_s2xa.jpg)
+![Você já pensa como um programador](./images/image_mvwds0sa_s2xa.jpg)
 
 Existe uma pesquisa desenvolvida por trás do **Pensamento Computacional** que defende a tese de que as escolas deveriam ter uma disciplina a mais, além de português, matemática, geografia e história, focada no **Pensamento Computacional**. Se as crianças no primário já começassem a pensar usando essas técnicas, chegariam à adolescência e à idade adulta com um raciocínio muito mais eficiente e rápido para resolver problemas. Por essa razão, o tema deve ser inserido ao longo da vida estudantil, sendo comparado às habilidades básicas de leitura, escrita e cálculos matemáticos.
 
@@ -22,7 +22,7 @@ A ideia não é transformar as pessoas em máquinas, mas usar técnicas de compu
 
 Vários cientistas definem o tema de formas complementares. Jeannette Wing destaca o processo de pensamento envolvido na formulação de um problema e na expressão de suas soluções. Dr. Aman Yadav fala sobre a atividade mental para abstrair problemas e formular soluções que podem ser automatizadas. Peter J. Denning menciona a conversão de uma entrada em uma saída e a busca por algoritmos. A técnica que vai acelerar a proficiência em programação chama-se Pensamento Computacional. A diferença do profissional intuitivo para o técnico é que o técnico enxerga o que o intuitivo apenas percebe que existe.
 
-![](./images/image_mvwdtzil_etwa.jpg)
+![O que é o Pensamento Computacional?](./images/image_mvwdtzil_etwa.jpg)
 
 ## Características e Qualidades do Pensamento Computacional
 
@@ -32,19 +32,19 @@ Existem algumas qualidades e evidências de quem aplica essas técnicas. A prime
 
 Outra qualidade é a tolerância para ambiguidades. Na língua portuguesa, por exemplo, existem questões que usam palavras com duplo sentido, como a palavra sua, que pode ser pronome ou do verbo suar. É preciso parar e analisar o contexto para não ser derrubado pela ambiguidade. Por fim, há a capacidade de lidar com problemas em aberto e a capacidade de trabalhar em cooperação, formando grupos de estudo e trocando ideias.
 
-![](./images/image_mvwdw7j3_cegb.jpg)
+![Perfil cognitivo para o Pensamento Computacional](./images/image_mvwdw7j3_cegb.jpg)
 
 ## Os Quatro Pilares do Pensamento Computacional
 
 Existem quatro ferramentas que todo programador usa no dia a dia. Alguns usam de forma intuitiva, enquanto outros conhecem a técnica e tiram o máximo proveito dela.
 
-![](./images/image_mvwdxt0h_u75u.jpg)
+![Os quatro pilares do Pensamento Computacional](./images/image_mvwdxt0h_u75u.jpg)
 
 ### Decomposição
 
 A decomposição é o processo de decomposição de problemas em pequenas partes. As partes menores podem ser resolvidas separadamente para, em seguida, obtermos a resposta do problema maior. É a ideia de ir por partes. Um exemplo na matemática seria a realização de um cálculo de multiplicação, como dezessete vezes oito. Para fazer de cabeça, podemos quebrar o problema: primeiro fazemos dez vezes oito, depois sete vezes oito, e somamos os resultados.
 
-![](./images/image_mvxv897x_7yxz.jpg)
+![Pilar 1: Decomposição](./images/image_mvxv897x_7yxz.jpg)
 
 
 ### Reconhecimento de Padrões
@@ -53,7 +53,7 @@ O reconhecimento de padrões é a identificação de similaridades e caracterís
 
 Na vida cotidiana, aplicamos nossa experiência de problemas passados aos novos. Por exemplo, saber que vai chover porque o vento está forte e as nuvens estão cinzentas, baseando-se em indicadores conhecidos da região. Outro exemplo é prever que o orçamento familiar vai ficar no vermelho se fizermos uma compra grande. Com base em experiências anteriores com o cartão de crédito, a pessoa pode optar por pagar à vista e negociar um desconto em vez de fazer um parcelamento longo.
 
-![](./images/image_mvxv90c2_xhvp.jpg)
+![Pilar 2: Reconhecimento de Padrões](./images/image_mvxv90c2_xhvp.jpg)
 
 ### Abstração
 
@@ -61,7 +61,7 @@ A abstração é o processo voltado para a separação detalhada e o tratamento 
 
 Outro exemplo é organizar uma viagem de turismo. Independentemente do destino, o modo de planejar segue uma lógica parecida. Nós abstraímos a parte específica do destino e criamos um roteiro padrão, adicionando as especificidades depois. A abstração ajuda a criar uma espinha dorsal para a resolução do problema.
 
-![](./images/image_mvxv9hwd_g184.jpg)
+![Pilar 3: Abstração](./images/image_mvxv9hwd_g184.jpg)
 
 ### Algoritmos
 
@@ -71,7 +71,7 @@ Outro exemplo é fazer uma reforma em casa continuando a morar nela. Se a casa t
 
 Na programação, se queremos calcular o rendimento de um investimento de dez mil reais com aportes mensais e uma taxa de juros ao longo de cento e vinte meses, precisamos organizar os dados. Primeiro, descobrimos quais são os dados de entrada. Depois, definimos o processamento, que são as fórmulas matemáticas. Por fim, determinamos a saída esperada do programa. Esse passo a passo de entrada, processamento e saída deve ser feito para todos os programas que vocês forem construir.
 
-![](./images/image_mvxva82f_2fqe.jpg)
+![Pilar 4: Algoritmo](./images/image_mvxva82f_2fqe.jpg)
 
 
 ## Aplicações Práticas e Atividades Desplugadas
@@ -93,7 +93,7 @@ A compra de supermercado também é um ótimo exercício. Após as compras, pode
 
 Por fim, o reconhecimento de padrões pode ser aplicado na identificação de sintomas de doenças. Analisando sintomas relatados por órgãos de saúde, como tosse seca, cansaço, febre e dor de garganta, podemos identificar padrões que diferenciam uma gripe, um resfriado ou outras doenças.
 
-![](./images/image_mvwe1mdf_8ztt.jpg)
+![Atividades desplugadas](./images/image_mvwe1mdf_8ztt.jpg)
 
 ## Inteligência Artificial e Pensamento Computacional
 
@@ -103,7 +103,7 @@ Quando falamos de máquinas que jogam xadrez ou preveem o clima e a bolsa de val
 
 No aprendizado de máquina, ou machine learning, a máquina é alimentada com uma quantidade absurda de dados para encontrar abstração, reconhecimento de padrões, decomposição e algoritmos. Uma pessoa não tem como olhar para a Biblioteca Nacional e descobrir instantaneamente qual livro possui as poesias com as métricas mais perfeitas. A máquina consegue fazer isso porque ela processa e analisa essa base de dados gigantesca em segundos, identificando se foi Camões ou Fernando Pessoa. A inteligência artificial atua como um grande moedor de dados, o que é um processo diferente do raciocínio crítico e estruturado de um ser humano aplicando o Pensamento Computacional.
 
-![](./images/image_mvwe3vur_wm4k.jpg)
+![Inteligência Artificial e Pensamento Computacional](./images/image_mvwe3vur_wm4k.jpg)
 
 ## Conclusão
 
@@ -111,7 +111,7 @@ A proposta deste artigo é ampliar o repertório de ferramentas para o aprendiza
 
 O profissional de Engenharia de Software precisa conhecer e lançar mão dessas ferramentas, sobretudo pela necessidade de deixar de fazer de forma intuitiva e passar a fazer de forma sistemática e técnica.
 
-![](./images/image_mvwebdn5_l2rp.jpg)
+![A transformação do olhar](./images/image_mvwebdn5_l2rp.jpg)
 
 ## Referências
 

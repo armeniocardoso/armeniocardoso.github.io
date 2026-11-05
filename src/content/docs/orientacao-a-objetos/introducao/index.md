@@ -9,7 +9,7 @@ A programação orientada a objetos é uma técnica de engenharia de software co
 
 O problema que essa técnica visa resolver é que softwares complexos rapidamente se tornam labirintos de código sem uma estrutura clara. A principal dificuldade na área de programação é a modularização, que significa conseguir enxergar e dividir o software em partes menores, chamadas de módulos. É perfeitamente possível fazer uma boa modularização em linguagens que não são orientadas a objetos, como JavaScript ou Python. No entanto, com a programação orientada a objetos, é muito mais provável que a modularização seja bem-sucedida. Ela funciona como uma ferramenta facilitadora para ajudar a modularizar melhor os softwares, decompondo a aplicação em componentes autocontidos que mapeiam o mundo real e agrupando dados e ações.
 
-![](./images/image_mvzq5cxw_rcx4.jpg)
+![A Essência da Orientação a Objetos](./images/image_mvzq5cxw_rcx4.jpg)
 
 
 
@@ -21,7 +21,7 @@ Na orientação a objetos, podemos usar a analogia da construção civil. A clas
 
 Através desse desenho, o engenheiro civil é capaz de construir o imóvel. O objeto é essa representação física. Ele é construído a partir das plantas, ocupa espaço na memória e possui existência real. Essa é a maneira ideal de começar a encarar os conceitos de classe e objeto.
 
-![](./images/image_mvzq7vs6_xt2n.jpg)
+![Paradigma da construção](./images/image_mvzq7vs6_xt2n.jpg)
 
 ## Classes e Modificadores de Acesso
 
@@ -35,7 +35,7 @@ A classe possui campos, também chamados de propriedades ou variáveis de instâ
 
 Além das características fixas, existe o estado, que pode ser o volume atual do tanque de combustível. Esse conteúdo varia ao longo do tempo conforme o carro consome gasolina. Os campos armazenam esses dados. Cada objeto físico criado a partir da classe terá sua própria cópia independente dessas variáveis. Se a classe veículo for usada para instanciar dois carros diferentes, cada carro terá seu próprio ciclo de vida, características e estado independente.
 
-![](./images/image_mvzq9ryl_gh69.jpg)
+![Estado do objeto](./images/image_mvzq9ryl_gh69.jpg)
 
 ## Métodos e Comportamento
 
@@ -43,7 +43,7 @@ Enquanto a modelagem de banco de dados foca apenas em dados, a orientação a ob
 
 Os detalhes de implementação ficam ocultos do mundo externo. Assim como não é necessário entender como funciona o seletor interno de canais de uma televisão para poder trocar de canal, o programador que usa a classe não precisa se preocupar com o funcionamento interno dela. Ele apenas precisa usá-la para atingir o objetivo do programa. Os métodos podem devolver um valor ou apenas executar uma ação, definindo o resultado esperado após a execução.
 
-![](./images/image_mvzqaz4n_vedz.jpg)
+![Métodos e comportamento do objeto](./images/image_mvzqaz4n_vedz.jpg)
 
 ## Encapsulamento na Prática
 
@@ -57,7 +57,7 @@ O papel do programador na programação orientada a objetos é escrever o códig
 
 Usando a analogia do carro, o projeto do carro é a classe, a linha de montagem é o operador new, e o carro pronto é o objeto. A classe é essencialmente um conjunto de planos de projetos. Somente depois que o operador new é invocado, uma representação física passa a existir na memória. O operador new aloca espaço em memória para a construção do objeto, da mesma forma que é usado para alocar espaço para um array.
 
-![](./images/image_mvzqcjsv_vq05.jpg)
+![Instanciando um objeto](./images/image_mvzqcjsv_vq05.jpg)
 
 ## Diferenças Fundamentais entre Classe e Objeto
 
@@ -65,7 +65,7 @@ Para aprofundar o tema, recomenda-se a leitura de autores como Herbert Schildt e
 
 A classe define como o objeto deve ser, sendo o código-fonte Java que, após compilado, torna-se um arquivo ponto class. O objeto é o espaço alocado, o código instanciado na memória RAM. Existe apenas uma definição de classe, mas podem existir múltiplas instâncias de objetos. A classe é o conceito geral de um veículo, enquanto o objeto é a minivan específica estacionada na garagem.
 
-![](./images/image_mvzqdmxk_3m6i.jpg)
+![Classe versus objeto](./images/image_mvzqdmxk_3m6i.jpg)
 
 ## Variáveis de Referência e o Controle Remoto
 
@@ -80,7 +80,7 @@ Existe uma armadilha comum relacionada às referências. Se uma variável que co
 
 O operador ponto funciona como um conector lógico entre a referência e o membro da classe, seja ele propriedade ou método. Ele associa o nome do objeto ao nome do membro que será acessado. É a forma programática de pressionar os botões do controle remoto para interagir com o objeto na memória. O ponto permite acessar os dados e comportamentos da instância específica.
 
-![](./images/image_mvzqifah_90wg.jpg)
+![Operador ponto](./images/image_mvzqifah_90wg.jpg)
 
 ## Ciclo de Vida do Objeto e Garbage Collector
 
@@ -92,4 +92,4 @@ O Java possui um sistema de bastidores transparente chamado Garbage Collector, o
 
 O primeiro conceito é a classe como um molde estrutural, definindo o tipo e a forma lógica usando a palavra-chave class. O segundo conceito são os objetos, que são as entidades físicas na memória RAM, trazidas à vida através do operador new. O terceiro conceito são os campos ou variáveis de instância, que armazenam os dados e o estado independente de cada objeto. O quarto conceito são os métodos, que representam as ações e rotinas responsáveis por manipular os dados internos e definir o comportamento da classe.
 
-![](./images/image_mvzqjej5_z9cj.jpg)
+![Resumo dos Quatro Conceitos Principais](./images/image_mvzqjej5_z9cj.jpg)

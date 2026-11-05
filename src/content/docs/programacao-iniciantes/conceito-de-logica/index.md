@@ -5,13 +5,13 @@ description: "Entenda os conceitos de lógica, premissas, raciocínio dedutivo e
 
 Lógica é uma área de conhecimento bem antiga, que dialoga com a filosofia, a matemática e a física. Nos últimos anos, nós a associamos diretamente à computação e à programação. Não estamos falando de uma ciência nova, mas de algo que existe desde que o ser humano começou a pensar e a questionar.
 
-![](./images/image_mvwbxbjc_juv9.jpg)
+![Evolução da lógica no tempo](./images/image_mvwbxbjc_juv9.jpg)
 
 Um dos primeiros pensadores da era antiga a tratar a lógica de forma mais metódica foi Sócrates: ele passava o conhecimento oralmente para seus discípulos,caminhando pelas ruas, praças e jardins. A lógica é um sistema usado para distinguir entre argumentos corretos e incorretos. Em um debate ou troca de informações, buscamos a argumentação nas frases. A lógica inclui o conjunto de princípios que, quando aplicados a argumentos, nos permitem demonstrar algo verdadeiro.
 
 Um exemplo clássico de sequência de ideias relacionadas é o seguinte: a primeira ideia é que Sócrates é um homem. A segunda ideia é que todos os homens são mortais. Consequentemente, Sócrates é mortal. Se ele é um homem e todos os homens são mortais, ele também é mortal. Esse é o princípio da lógica.
 
-![](./images/image_mvwc03pt_c4le.jpg)
+![Algoritmo de Sócrates](./images/image_mvwc03pt_c4le.jpg)
 
 ## A Lógica na Programação
 
@@ -27,7 +27,7 @@ Uma premissa é como qualquer afirmação comum, exceto que pode ser avaliada pa
 
 Outras formas de expressão, como perguntas ou comandos, não podem ser consideradas premissas. Comandos imperativos como "leve o lixo para fora" ou "lave a louça" e perguntas como "que horas são" não possuem valor de verdadeiro ou falso. As premissas sempre estarão ligadas a afirmações.
 
-![](./images/image_mvwc6y5e_tk3b.jpg)
+![Teste da premissa](./images/image_mvwc6y5e_tk3b.jpg)
 
 
 Ao desenvolver um sistema, você vai entrevistar os usuários interessados, relacionar os problemas a serem resolvidos e as necessidades dessas pessoas. Você terá uma atenção especial a essas afirmações. Em um sistema acadêmico, podemos relacionar algumas regras de negócio que são consideradas afirmações verdadeiras e como Engenheiro de Software você precisa validar essas regras.
@@ -49,7 +49,7 @@ A segunda maneira pela qual o argumento dedutivo falha é quando a conclusão n�
 
 Os argumentos dedutivos são bastante raros, pois normalmente você os encontra apenas quando o conhecimento com o qual está lidando é incontestável. O mundo real muitas vezes nos apresenta um conhecimento irregular, confuso ou provisório. Os problemas da vida real costumam ter nuances, e para isso temos o raciocínio indutivo.
 
-![](./images/image_mvwcfscc_yxbw.jpg)
+![Dedutivo versus indutivo](./images/image_mvwcfscc_yxbw.jpg)
 
 O raciocínio indutivo é tolerante e lida com probabilidade em vez de certeza. Quando desenvolvemos software e coletamos dados, assumimos que as afirmações feitas têm alta probabilidade de serem verdadeiras. As premissas em um argumento indutivo não são inquestionavelmente verdadeiras. Se um saco contém cem bolas vermelhas e uma única bola preta, a probabilidade de tirar a bola preta é de um por cento. Eu tenho noventa e nove por cento de chance de tirar uma bola vermelha. O raciocínio indutivo lida com essa alta probabilidade de estar certo, baseando-se na lógica de eventos passados ou em estatísticas.
 
@@ -66,13 +66,13 @@ Além disso, você precisa saber interpretar a conclusão que o computador repor
 
 Programas de computador não são inteligentes. Quem é inteligente é o programador que constrói a aplicação e faz previsões de uso corretas e o computador apenas executa o que foi programado. É um trabalho que exige técnica, paciência e capricho.
 
-![](./images/image_mvwclubl_4rp6.jpg)
+![A Responsabilidade do Programador](./images/image_mvwclubl_4rp6.jpg)
 
 ## Lógica Booleana
 
 A lógica booleana é a base do funcionamento das máquinas e dos circuitos eletrônicos. É uma lógica binária, de liga e desliga, sem meios-termos. Sua natureza binária a torna apta a lidar com questões absolutas, representadas por zero ou um.
 
-![](./images/image_mvwco9il_fzfq.jpg)
+![Lógica Booleana](./images/image_mvwco9il_fzfq.jpg)
 
 A álgebra booleana foi criada pelo matemático e filósofo britânico George Boole, sendo fundamental para o desenvolvimento da computação moderna. Ela lida com declarações que possuem apenas dois valores: verdadeiro ou falso, fazendo analogia ao interruptor que só pode estar ligado ou desligado. Com milhões de interruptores em um circuito integrado, conseguimos formar várias combinações e fazer um programa funcionar.
 
@@ -84,7 +84,7 @@ A segunda propriedade é que as proposições devem ter um significado claro e i
 
 A terceira propriedade é que é possível combinar proposições individuais para construir uma expressão maior e mais complexa. Se dizemos que uma pessoa está vestindo uma camisa e a camisa é vermelha, estamos conectando duas afirmações verdadeiras para formar uma expressão composta. Fazemos isso usando operadores lógicos.
 
-![](./images/image_mvwcrins_53ds.jpg)
+![As 3 leis das proposições](./images/image_mvwcrins_53ds.jpg)
 
 ## Operadores Lógicos
 
@@ -94,29 +94,29 @@ O operador AND é o termo técnico para a conjunção. Ele encadeia proposiçõe
 
 O operador OR é o termo técnico para a disjunção. Ele encadeia proposições de maneira que pelo menos uma delas deve ser verdadeira para que a conclusão seja verdadeira. A única maneira de a conclusão ser falsa é se todas as proposições envolvidas forem falsas.
 
-![](./images/image_mvwcvppt_j2ax.jpg)
+![Operadores lógicos: AND e OR](./images/image_mvwcvppt_j2ax.jpg)
 
 O operador NOT representa a negação. A missão dele não é encadear proposições, mas sim inverter o valor de uma proposição. Negar uma proposição pode facilitar a expressão de uma cadeia de raciocínio, transformando um estado verdadeiro em falso e vice-versa.
 
-![](./images/image_mvwcz64p_x49w.jpg)
+![Operadores lógicos: NOT](./images/image_mvwcz64p_x49w.jpg)
 
 
 O operador IMPLIES é a implicação ou condicional. Ele afirma que há uma correlação entre duas declarações, funcionando como a palavra **logo** em português. Se afirmamos que uma pessoa é engenheira química, **logo** ela pode fazer uma pós-graduação, estamos criando uma consequência. A segunda proposição é consequência da primeira. Essa é uma correlação unidirecional, o que significa que não podemos inverter a ordem lógica a partir da conclusão.
 
 O operador de equivalência, conhecido como **se e somente se**, é o operador bicondicional. Ele se comporta de maneira semelhante à implicação, mas atua de forma bidirecional. Isso significa que a segunda proposição é influenciada apenas pela primeira, e vice-versa. Se a primeira for verdadeira, a segunda é verdadeira. Se a primeira for falsa, a segunda será falsa, sem exceções.
 
-![](./images/image_mvwcxxev_741r.jpg)
+![Causa e efeito: condicionais](./images/image_mvwcxxev_741r.jpg)
 
 ## Conclusão
 
 
 A proposta deste artigo é apresentar conceitos fundamentais para o estudo sistemático de programação e Engenharia de Software, entendendo a base necessária para a construção de bons algoritmos. Há a motivação e necessidade de compreender claramente os problemas a serem resolvidos, mapeando e validando as premissas, formulando proposições e dominando a linguagem natural de cada ramo dos negócios.
 
-![](./images/image_mvweliwv_rwkf.jpg)
+![Você é a Inteligência](./images/image_mvweliwv_rwkf.jpg)
 
 ## Referências
 
-1. **MORTARI, Cezar A.** Introdução à lógica. 2. ed. São Paulo: Editora UNESP, 2017. Disponível em: [Editora UNESP](https://editoraunesp.com.br/). 
+1. **MORTARI, Cezar A.** Introdução à lógica. 2. ed. São Paulo: Editora UNESP, 2017. Disponível em: [Editora UNESP](https://editoraunesp.com.br/).
 
 2. **KUDO, Taciana Novo et al.** Introdução à Lógica de Programação. Goiânia: Universidade Federal de Goiás (UFG), 2024. Disponível em: [Publicação e material didático](https://www.inf.ufg.br/).
 
