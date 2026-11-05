@@ -9,6 +9,9 @@ A web cresceu significativamente, mas o conteúdo real representa apenas uma fra
 
 Atualmente, cerca de sessenta e um por cento do peso da web é composto por imagens, tornando-as as grandes vilãs da performance, seguidas pelo Javascript, fontes e CSS. O HTML em si representa uma parcela muito pequena.
 
+Em *Jump Start Web Performance*, Craig Buckler apresenta um levantamento do HTTP Archive, referente ao início de 2020, que ajuda a compreender essa dimensão. Naquele período, uma página web média possuía aproximadamente 1.940 KB, distribuídos em HTML, CSS, fontes, JavaScript e imagens, e exigia cerca de 74 requisições HTTP.
+
+
 ![A Anatomia da Web Obesa](./images/image_mvw9d30y_xl54.jpg)
 
 O custo da lentidão para o usuário final é alto. Em países emergentes, o tempo médio de carregamento em dispositivos móveis pode chegar a vinte segundos. Acessar uma única página pode custar mais de um por cento da renda diária do usuário devido à lentidão da rede. No aspecto dos negócios, considerando que cinquenta e cinco por cento do tráfego web vem de dispositivos móveis, a lentidão reduz conversões, aumenta o abandono de páginas e resulta em penalizações de SEO.
