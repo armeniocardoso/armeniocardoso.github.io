@@ -87,7 +87,7 @@ Com a lista pronta, entramos no ciclo. Primeiro, escrevemos o teste e vemos falh
 
 Ao olhar para o protótipo da tela, isolamos as tarefas. A criação do teclado virtual é uma delas. Usando o Jasmine como exemplo, temos o conceito de agrupador de testes, chamado describe, onde colocamos o título da tarefa.
 
-Um conceito fundamental do teste unitário é o isolamento e a possibilidade de repetição com o mesmo resultado observável: idempotência. O ambiente antes do teste tem que ser igual ao ambiente depois do teste. Se testamos um cadastro de alunos e inserimos dados, o banco deve voltar a ficar vazio ao final.
+Um conceito fundamental do teste unitário é o isolamento e a possibilidade de repetição com o mesmo resultado observável. O ambiente antes do teste tem que ser igual ao ambiente depois do teste. Se testamos um cadastro de alunos e inserimos dados, o banco deve voltar a ficar vazio ao final.
 
 No front end, o teste simula um navegador. Usamos blocos de preparação antes de cada teste para criar os elementos em tela e blocos de finalização para remover esses elementos depois. O teste em si verifica se a função de montar o teclado cria os vinte e seis botões esperados.
 
