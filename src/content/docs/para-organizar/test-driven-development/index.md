@@ -22,27 +22,27 @@ O problema é que, quando o tempo aperta, o desenvolvedor faz apenas o que é es
 
 ## O Ciclo do TDD e a Refatoração
 
-Existe uma técnica chamada Test First, que significa testar primeiro. O TDD se apropriou dessa ideia e acrescentou a refatoração, criando um ciclo que pode ser chamado de Vermelho, Verde e Azul.
+Existe uma técnica chamada Test First, que significa testar primeiro. O TDD se apropriou dessa ideia e acrescentou a refatoração, criando um ciclo que pode ser chamado de Vermelho, Verde e Refatoração.
 
-No TDD, primeiro fazemos o teste. Ele vai falhar porque o código ainda não existe, essa é a etapa Vermelha. Em seguida, escrevemos o código focado em fazer o teste passar, essa é a etapa Verde. Depois que o teste passa, voltamos ao código para verificar melhorias, essa é a etapa Azul.
+No TDD, primeiro fazemos o teste. Ele vai falhar porque o código ainda não existe, essa é a etapa Vermelha. Em seguida, escrevemos o código focado em fazer o teste passar, essa é a etapa Verde. Depois que o teste passa, voltamos ao código para verificar melhorias, essa é a etapa de refatoração.
 
 Na refatoração, ajustamos nomes de variáveis, melhoramos algoritmos, verificamos a declaração de métodos e testamos todos os parâmetros. O código fica mais legível, performático e completo. Após isso, o ciclo recomeça com uma nova funcionalidade.
 
 ## Diferença entre Teste Unitário e TDD
 
-O teste unitário é uma ferramenta de software que automatiza o teste de uma unidade funcional ou unidade de código. A definição do que é uma unidade varia para cada desenvolvedor. Em um sistema com um menu de opções, cada opção, incluindo a de sair, pode ser um teste de uma unidade funcional.
+O teste unitário é uma categoria de teste que usa ferramentas de software que automatizam o teste de uma unidade funcional ou unidade de código. A definição do que é uma unidade varia para cada desenvolvedor. Em um sistema com um menu de opções, cada opção, incluindo a de sair, pode ser um teste de uma unidade funcional.
 
 Se a unidade de código for muito pequena, dará mais trabalho. O ideal é agrupar partes que têm coesão entre si, formando uma unidade que permita dar um passo no desenvolvimento.
 
-O teste unitário é a prática de criar testes automatizados, geralmente feita após escrever o código. Nós sempre fizemos testes unitários manuais. Quando criamos a classe conta corrente com os métodos depositar, sacar e consultar saldo, logo depois criamos um método main para testar cada uma dessas unidades funcionais.
+O teste unitário é a prática de criar testes automatizados, geralmente feita após escrever o código. Nós podemos fazer testes quando criamos a classe conta corrente com os métodos depositar, sacar e consultar saldo, logo depois criamos um método main para testar cada uma dessas unidades funcionais. A questão é que implementar os testes dessa forma não garante o uso de um modelo, não garante o isolamento da unidade funcional, nem automatiza de forma sistemática a execução dos testes.
 
-A técnica profissional exige o uso de uma ferramenta. 
+A técnica profissional exige o uso de uma ferramenta.
 
 O TDD, por sua vez, é um conjunto de práticas onde se escreve o teste antes do código e se executa esses testes continuamente à medida que novas funcionalidades são adicionadas.
 
 ![Diferença entre Teste Unitário e TDD](./images/image_mw3r7dsx_cz4y.jpg)
 
-## Detalhando o Ciclo Vermelho, Verde e Azul
+## Detalhando o Ciclo Vermelho, Verde e Refatoração
 
 ![O ciclo de vida do TDD](./images/image_mw3r8tj1_h4fz.jpg "O ciclo de vida do TDD")
 
@@ -54,7 +54,7 @@ O Verde é pragmatismo e sucesso. Escrevemos o código da forma mais enxuta e si
 
 ![Verde: Pragmatismo e Sucesso](./images/image_mw3rcwjf_xhda.jpg)
 
-O Azul é a evolução do design e do código. É uma reestruturação disciplinada para melhorar a qualidade e a clareza. Identificamos problemas de vulnerabilidade. Por exemplo, se na etapa Verde usamos um Statement para conectar ao banco de dados, na etapa Azul percebemos a vulnerabilidade e trocamos por um PreparedStatement. A regra de ouro da refatoração é reter a semântica comportamental, ou seja, o teste deve continuar passando.
+Refatoração é a evolução do design e do código. É uma reestruturação disciplinada para melhorar a qualidade e a clareza. Identificamos problemas de vulnerabilidade. Por exemplo, se na etapa Verde usamos um Statement para executar instruções do banco de dados, na etapa Refatoração percebemos a vulnerabilidade (possível SQL Injection) e trocamos por um PreparedStatement. A regra de ouro da refatoração é reter a semântica comportamental, ou seja, o teste deve continuar passando.
 
 ![Azul: a refatoração. Evolução do Design.](./images/image_mw3rekp7_xlcc.jpg)
 
@@ -87,7 +87,7 @@ Com a lista pronta, entramos no ciclo. Primeiro, escrevemos o teste e vemos falh
 
 Ao olhar para o protótipo da tela, isolamos as tarefas. A criação do teclado virtual é uma delas. Usando o Jasmine como exemplo, temos o conceito de agrupador de testes, chamado describe, onde colocamos o título da tarefa.
 
-Um conceito fundamental do teste unitário é a idempotência. O ambiente antes do teste tem que ser igual ao ambiente depois do teste. Se testamos um cadastro de alunos e inserimos dados, o banco deve voltar a ficar vazio ao final.
+Um conceito fundamental do teste unitário é o isolamento e a possibilidade de repetição com o mesmo resultado observável: idempotência. O ambiente antes do teste tem que ser igual ao ambiente depois do teste. Se testamos um cadastro de alunos e inserimos dados, o banco deve voltar a ficar vazio ao final.
 
 No front end, o teste simula um navegador. Usamos blocos de preparação antes de cada teste para criar os elementos em tela e blocos de finalização para remover esses elementos depois. O teste em si verifica se a função de montar o teclado cria os vinte e seis botões esperados.
 
