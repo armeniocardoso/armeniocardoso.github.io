@@ -52,7 +52,10 @@ export default defineConfig({
 						{ slug: 'engenharia-de-software' },
 						{
 							label: 'Boas Práticas',
-							items: [
+							items: [								
+								{
+									slug: 'engenharia-de-software/boas-praticas/test-driven-development',
+								},
 								{
 									slug: 'engenharia-de-software/boas-praticas/auditoria-desempenho-otimizacao-aplicacoes-web',
 								},
