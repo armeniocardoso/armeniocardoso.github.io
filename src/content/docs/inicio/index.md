@@ -24,23 +24,23 @@ CulturaTEC: Porque tecnologia não é apenas aprender ferramentas. É construir 
 
 ![Autor do CulturaTEC](./images/image_mvxwl8nm_kxxd.png)Meu nome é Armênio Cardoso, sou Staff Software Engineer e Tech Leader, com mais de 40 anos de experiência em Engenharia de Software e uma trajetória profissional construída na interseção entre tecnologia, arquitetura de sistemas e educação.
 
-Atualmente, sou responsável pela liderança técnica do Gliese, sistema de atendimento da Dasa, atuando em um ambiente de alta complexidade, no qual disponibilidade, desempenho, escalabilidade e evolução tecnológica são desafios permanente.
+Atualmente, sou responsável pela liderança técnica do Gliese, sistema de atendimento da Dasa, atuando em um ambiente de alta complexidade, no qual disponibilidade, desempenho, escalabilidade e evolução tecnológica são desafios permanentes.
 
 Ao longo da minha carreira, acumulei experiência em arquitetura de sistemas complexos, JVM/Java, sistemas distribuídos, integração de aplicações, modernização de sistemas legados, requisitos não funcionais e liderança técnica transversal. Tenho especial interesse por problemas tecnicamente difíceis, especialmente aqueles que exigem compreender sistemas em profundidade, equilibrar decisões arquiteturais e construir soluções sustentáveis.
 
-Minha relação com a tecnologia também sempre esteve ligada à educação. Há mais de 36 anos atuo como professor de Engenharia de Software, compartilhando conhecimentos e experiências com diferentes gerações de profissionais. Há mais de 24 anos atuo como professor na Faculdade Infnet, no Rio de Janeiro.
+Minha relação com a tecnologia sempre esteve ligada à educação: há mais de 36 anos atuo como professor de Engenharia de Software, compartilhando conhecimentos e experiências com diferentes gerações de profissionais.
 
 Em 1996, fui pioneiro no ensino e na disseminação da linguagem Java no Brasil. Participei de uma época em que a comunidade Java começava a se formar, levando conhecimento a milhares de desenvolvedores por meio dos primeiros road-shows, cursos e Java Users Groups (JUGs).
 
 Acima de tudo, acredito no poder da educação para transformar vidas. Construí minha trajetória conciliando a carreira de desenvolvedor com a de professor, porque acredito que compartilhar conhecimento é também uma maneira de contribuir para a evolução das pessoas e do ecossistema tecnológico brasileiro.
 
-### **CulturaTEC nasce dessa experiência.**
+**CulturaTEC nasce dessa experiência.**
 
 É um espaço para organizar, aprofundar e compartilhar conhecimentos construídos ao longo de décadas de prática profissional, ensino, estudos e experimentação. Aqui, procuro conectar fundamentos da Engenharia de Software com os desafios reais do desenvolvimento de sistemas, sem perder de vista a importância do pensamento crítico e da aprendizagem contínua.
 
 A tecnologia evolui, ferramentas surgem e desaparecem, paradigmas se transformam. Por isso, acredito que a formação de um bom profissional não pode depender apenas do domínio das ferramentas do momento. É preciso construir fundamentos, desenvolver capacidade de análise e aprender continuamente.
 
-Não procuro desacelerar: continuo buscando novos desafios, problemas tecnicamente difíceis e oportunidades nas quais minha experiência possa produzir mais impacto.
+Nunca desacelerar: continuo buscando novos desafios, problemas tecnicamente difíceis e oportunidades nas quais minha experiência possa produzir mais impacto.
 
 **Continuar aprendendo, construir soluções e compartilhar conhecimento: essa é a essência do CulturaTEC.**
 
