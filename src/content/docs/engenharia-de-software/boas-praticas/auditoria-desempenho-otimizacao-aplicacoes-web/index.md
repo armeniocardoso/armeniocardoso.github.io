@@ -70,7 +70,8 @@ O uso de uma Content Delivery Network é essencial. Ter uma origem única força
 
 Como as imagens representam a maior parte do peso da página, é vital reduzir suas proporções. Não se deve carregar uma imagem com cinco mil pixels de largura se o espaço de exibição é de apenas seiscentos pixels. É necessário redimensionar as imagens previamente, privilegiar formatos de última geração, evitar a codificação Base64 no CSS e utilizar ferramentas de transformação de imagens.
 
-O passo a passo para a performance total inclui concatenar e minificar o código Javascript. Em seguida, deve-se carregar o Javascript no final do corpo do documento HTML ou utilizar o atributo *defer*, garantindo que a página seja renderizada antes do carregamento dos scripts. A utilização do protocolo HTTP/2 acelera a carga através da multiplexação de streams em uma conexão.
+O passo a passo para a performance inclui minificar o código Javascript. Em seguida, deve-se carregar o Javascript no final do corpo do documento HTML ou utilizar o atributo *defer*, garantindo que a página seja renderizada antes do carregamento dos scripts. A utilização do protocolo HTTP/2 acelera a carga através da multiplexação de streams em uma conexão, tornando a antiga prática de concatenar arquivos desnecessária e prejudicial ao cache.
+
 
 A ativação da compressão Gzip nos servidores diminui drasticamente o peso dos dados trafegados. Para quem trabalha com Java, aplicações JSP e Servlets, o servidor Tomcat permite ativar essa compressão nativamente, assim como o servidor Apache. O último passo é garantir o uso de cache nas bordas através da CDN.
 

@@ -1,0 +1,7 @@
+# Relatório de Revisão Técnica
+**Arquivo Origem:** `index.md`
+
+### Erro na Linha 73
+* **O que está errado:** Recomendar a concatenação de código JavaScript como um passo para a "performance total" no mesmo contexto em que se recomenda o uso do protocolo HTTP/2.
+* **Por que está errado:** A concatenação de arquivos (juntar vários scripts em um só) era uma técnica necessária no HTTP/1.1 para contornar o limite de conexões simultâneas dos navegadores. O protocolo HTTP/2 introduziu a multiplexação (mencionada no próprio texto), que permite o tráfego de múltiplos arquivos simultaneamente em uma única conexão TCP. Em ambientes HTTP/2 ou HTTP/3, concatenar arquivos é tecnicamente contraindicado, pois prejudica o cache granular do navegador (se uma pequena função mudar, o usuário precisará baixar o "bundle" inteiro novamente, em vez de apenas o pequeno arquivo modificado).
+* **Proposta de correção:** "O passo a passo para a performance inclui minificar o código Javascript. Em seguida, deve-se carregar o Javascript no final do corpo do documento HTML ou utilizar o atributo *defer*, garantindo que a página seja renderizada antes do carregamento dos scripts. A utilização do protocolo HTTP/2 acelera a carga através da multiplexação de streams em uma conexão, tornando a antiga prática de concatenar arquivos desnecessária e prejudicial ao cache."
