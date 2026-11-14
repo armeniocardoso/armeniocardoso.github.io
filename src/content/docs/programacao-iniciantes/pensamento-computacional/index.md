@@ -4,7 +4,8 @@ description: Aprenda a decompor problemas, identificar padrões, abstrair inform
 ---
 Como resolver problemas do cotidiano usando lógica e algoritmos?
 
-Nas décadas de 90, não tínhamos um estudo aprofundado sobre as técnicas de programação. A partir dos anos 2000, começamos a ter vários estudos sobre técnicas de programação e psicologia aplicada à programação. Vamos lidar com uma ciência e um aspecto da programação muito interessante e relativamente novo, chamado de **Pensamento Computacional**.
+
+Até o final da década de 90, o estudo aprofundado sobre técnicas de programação era restrito quase exclusivamente aos profissionais e acadêmicos da área de computação. A partir dos anos 2000, começamos a ter vários estudos focados em como traduzir essas técnicas e a psicologia aplicada à programação para o público em geral. Vamos lidar com uma ciência e um aspecto da programação muito interessante e relativamente novo, chamado de **Pensamento Computacional**.
 
 Vários estudiosos e cientistas se dedicaram a mapear quais são as técnicas que um bom programador emprega para resolver problemas e eles pensaram que isso não poderia ser algo de elite ou restrito a superdotados: era necessário mapear como um bom programador pensa e extrair técnicas desse pensamento para ensinar programação a qualquer pessoa. A programação, na cabeça desses cientistas, deve estar ao alcance de qualquer um que queira programar. Isso é uma revolução, porque antigamente a programação era ensinada de forma bastante intuitiva e instrucional, sem uma ciência ou um estudo de como pensa um bom programador. Atualmente é possível commeçar esse processo de aprendizado diretamente pelas técnicas mais modernas.
 
