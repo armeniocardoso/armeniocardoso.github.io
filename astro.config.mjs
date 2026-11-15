@@ -51,6 +51,14 @@ export default defineConfig({
 					items: [
 						{ slug: 'engenharia-de-software' },
 						{
+							label: 'Fundamentos',
+							items: [								
+								{
+									slug: 'engenharia-de-software/fundamentos/introducao-engenharia-software',
+								},
+							],
+						},
+						{
 							label: 'Boas Práticas',
 							items: [								
 								{
