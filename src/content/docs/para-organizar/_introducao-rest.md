@@ -36,10 +36,11 @@ O objetivo não é criar navegadores em Java, mas compreender o raciocínio por 
 
 A resposta possui uma estrutura muito semelhante. A versão do protocolo fica no início, seguida por um código de status e uma palavra relacionada. O servidor também envia cabeçalhos, a linha de quebra estrutural e o corpo da resposta, que pode ser um HTML, JSON ou XML. O termo utilizado para a parte útil transmitida é payload, que significa carga. Em uma analogia com um caminhão, o payload é a carga que vai na caçamba, ignorando a cabine do motorista e a estrutura do veículo.
 
-## Métodos HTTP e Idempotência
+
+## Métodos HTTP
+
 Quando o REST foi criado, fez-se uma analogia entre os comandos de banco de dados e os métodos nativos do HTTP: POST, GET, PUT, PATCH e DELETE. O GET é usado para consultas. O POST é usado para inserir registros, mas também pode ser usado para consultas muito complexas com muitos filtros, evitando erros em um GET complicado. O PUT deve ser reservado para a substituição completa de um registro, enquanto o PATCH é usado para a atualização de campos específicos, como trocar apenas o telefone ou e-mail do usuário. O DELETE é autoexplicativo.
 
-Um conceito fundamental é a idempotência, que vem da matemática. Uma função idempotente sempre retorna o mesmo resultado para os mesmos parâmetros. No HTTP, uma operação é idempotente se, ao ser executada várias vezes, produz o mesmo estado no servidor que produziria se fosse executada apenas uma vez. O POST não é idempotente, pois cada execução cria um registro diferente com uma chave primária única. De forma geral, busca-se a idempotência na construção de uma API REST.
 
 ## Códigos de Status e Content-Type
 O HTTP dispõe de códigos de status divididos em cinco grupos. O grupo dos 200 indica sucesso. Ao fazer um POST para inserir um registro, o ideal é retornar o código 201, indicando que o registro foi criado. O grupo dos 300 tem pouca aplicação para nós. Os grupos dos 400 e 500 indicam erros do cliente e do servidor, respectivamente. Se um cliente envia um CPF inválido, retornamos um 400 Bad Request. O código 401 indica que o usuário não está autorizado e precisa de autenticação, geralmente acionando a tela de login. Se o usuário tentar acessar uma área proibida mesmo após o login, recebe um 403 Forbidden.
