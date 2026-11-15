@@ -1,9 +1,7 @@
-# Visão Geral da Engenharia de Software e Metodologias
-
-
-
-
-
+---
+title: Introdução à Engenharia de Software
+description: Conheça os fundamentos da Engenharia de Software, sua importância e os principais conceitos envolvidos no desenvolvimento de sistemas.
+---
 ## O Conceito de Engenharia
 
 Mergulhando na teoria, a engenharia é a aplicação de métodos do conhecimento científico ou empírico, ou seja, a união da teoria e da prática, destinados à utilização de recursos materiais e naturais para o benefício do ser humano. É uma área do conhecimento que aborda os conceitos de projeção, desenvolvimento, construção, análise e manutenção de alternativas que auxiliem e facilitem a vida da sociedade nas atividades cotidianas.
