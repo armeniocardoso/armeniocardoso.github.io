@@ -1,6 +1,7 @@
-# Introdução ao Modelo de Domínio
-
-
+---
+title: Introdução ao Modelo de Domínio
+description: Entenda como representar conceitos, entidades e relacionamentos de um domínio de negócio por meio de modelos conceituais.
+---
 ## O Conceito de Domínio
 
 O ponto-chave aqui é a palavra domínio, que também pode ser entendido como contexto. É o ramo de negócio da empresa para o qual você está procurando desenvolver um software para resolver problemas. Quando falamos de um escritório de advocacia, estamos falando de um domínio. O uma startup de recursos humanos, é um domínio diferente. Empresas ligadas a hospitais representam um terceiro domínio.

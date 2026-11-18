@@ -1,12 +1,13 @@
+---
+title: Introdução à Arquitetura REST
+description: Conheça os princípios da arquitetura REST, o protocolo HTTP e os fundamentos para projetar APIs RESTful.
+---
 REST é uma arquitetura que consiste em um conjunto de restrições aplicadas a componentes, conectores e elementos de dados. Possui dois pilares principais: a forma como você constrói as funcionalidades e o protocolo HTTP. REST é intimamente ligado ao HTTP e atua como uma abstração da web, cobrindo a infraestrutura atual. Da mesma forma que acessamos uma página digitando um endereço no navegador e recebemos um HTML formatado com imagens, pessoas criativas pensaram que, ao bater em um servidor, ele poderia devolver um streaming de vídeo, áudio ou um JSON. JSON significa JavaScript Object Notation. Se essa string representa um objeto, podemos converter isso em Java, C Sharp ou qualquer outra linguagem, pegando os nomes e conteúdos dos campos. Essa ideia explodiu e virou uma arquitetura. Como tudo é string, podemos recuperar JSON, XML, TXT ou YAML. O que existe hoje é resultado de uma evolução constante. Houve um momento em que o XML era a solução de todos os problemas, mas hoje existem pessoas pensando em como tornar o JSON ainda mais eficiente ou criando novos formatos.
 
 ## Evolução da Arquitetura Cliente-Servidor
 A arquitetura típica de cliente-servidor nasceu em meados da década de oitenta e teve seu apogeu na década de noventa. Depois, entrou em declínio com a invenção da web e o surgimento de linguagens como Python, PHP, Java e JavaScript. Na arquitetura antiga, típica de aplicações em Delphi ou Visual Basic, a aplicação conectava direto no banco de dados. Era um monólito com alta complexidade, acoplamento rígido, conexões ponto a ponto sem padronização e muitos problemas de segurança. A evolução ocorre quando as aplicações, em vez de conectarem diretamente no banco de dados, passam por uma API. Se essa API seguir o padrão corretamente, ela será uniforme.
 
 ## Características da Arquitetura REST
-
-
-
 
 A arquitetura REST possui características que precisam fazer parte do projeto de software. Primeiro, ela nasce como uma arquitetura cliente-servidor, mas a diferença está em quem é o cliente e quem é o servidor. Você não conecta direto no banco de dados, mas utiliza uma API como servidora, que implementa as conexões e regras de negócio.
 

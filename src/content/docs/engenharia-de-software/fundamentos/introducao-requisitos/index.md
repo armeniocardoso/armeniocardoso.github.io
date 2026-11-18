@@ -1,6 +1,7 @@
-# Introdução aos Requisitos de Software
-
-
+---
+title: Introdução à Engenharia de Requisitos
+description: Aprenda os fundamentos da Engenharia de Requisitos, incluindo requisitos funcionais, não funcionais, documentação e priorização.
+---
 Vamos falar dos requisitos, abordando primeiro a teoria e depois a prática. A teoria é um ponto importante. O que são os requisitos? Neste momento, já começamos a pensar na modelagem do sistema. Os requisitos expressam as características e restrições do produto de software do ponto de vista da satisfação das necessidades do usuário.
 
 O usuário tem um problema para resolver ou algo que pode melhorar na vida dele. O que você vai fazer é escrever um software para melhorar a vida do usuário, da empresa ou daquele cliente.

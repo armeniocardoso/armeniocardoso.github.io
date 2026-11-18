@@ -56,6 +56,26 @@ export default defineConfig({
 								{
 									slug: 'engenharia-de-software/fundamentos/introducao-engenharia-software',
 								},
+								{
+									slug: 'engenharia-de-software/fundamentos/processos-de-desenvolvimento-de-software',
+								},
+								{
+									slug: 'engenharia-de-software/fundamentos/introducao-rup',
+								},
+								{
+									slug: 'engenharia-de-software/fundamentos/introducao-requisitos',
+								},
+								{
+									slug: 'engenharia-de-software/fundamentos/introducao-modelo-dominio',
+								},
+							],
+						},
+						{
+							label: 'Arquitetura',
+							items: [								
+								{
+									slug: 'engenharia-de-software/arquitetura/introducao-api-rest',
+								},
 							],
 						},
 						{

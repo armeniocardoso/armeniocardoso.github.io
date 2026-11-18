@@ -1,5 +1,7 @@
-# O Rational Unified Process e suas Fases
-
+---
+title: Introdução ao RUP
+description: Conheça o Rational Unified Process, suas fases, disciplinas e características como processo de desenvolvimento de software.
+---
 ## Origem e Diferença entre RUP e UP
 
 O Rational Unified Process, ou RUP, foi criado junto com a UML pelos mesmos três criadores da linguagem de modelagem - Grady Booch, James Rumbaugh e Ivar Jacobson. Eles não se deram por satisfeitos em criar apenas uma notação e desenvolveram um processo para ser utilizado em conjunto com ela. O nome deriva da empresa que eles fundaram, a Rational Software. Essa empresa cresceu, fez muito sucesso com a adoção do RUP e da UML pelo mercado, e acabou sendo comprada pela IBM, que incorporou todos os ativos intelectuais ao seu ecossistema. Hoje, a IBM possui um conjunto de ferramentas de modelagem que inclui o Rational Rose.
