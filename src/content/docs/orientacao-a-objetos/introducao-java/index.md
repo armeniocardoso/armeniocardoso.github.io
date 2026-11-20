@@ -1,6 +1,9 @@
 ---
 title: Introdução ao Java
 description: História, fundamentos e por que a linguagem Java continua relevante no mercado.
+sidebar:
+  order: 20
+  label: Introdução ao Java
 ---
 
 # Introdução e História da Linguagem Java

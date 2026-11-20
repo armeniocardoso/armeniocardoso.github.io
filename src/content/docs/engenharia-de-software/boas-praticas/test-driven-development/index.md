@@ -1,6 +1,9 @@
 ---
 title: Test-Driven Development
 description: "Aprenda os fundamentos do Test-Driven Development (TDD), entenda o ciclo Vermelho, Verde e Refatoração e veja como aplicar testes no desenvolvimento de software."
+sidebar:
+  order: 10
+  label: Test-Driven Development
 ---
 Tudo começa com as ideias de um autor chamado Kent Beck, um dos signatários do Manifesto Ágil. Ele é muito atuante na filosofia e no desenvolvimento de técnicas na área de Engenharia de Software, sendo um nome essencial para se conhecer, ler seus artigos e livros.
 

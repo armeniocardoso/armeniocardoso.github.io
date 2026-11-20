@@ -1,6 +1,9 @@
 ---
 title: Fundamentos de Programação
 description: "O que é programação, código-fonte, compiladores, interpretadores e plataformas de desenvolvimento."
+sidebar:
+  order: 40
+  label: Fundamentos de Programação
 ---
 
 ## O Que é Programação

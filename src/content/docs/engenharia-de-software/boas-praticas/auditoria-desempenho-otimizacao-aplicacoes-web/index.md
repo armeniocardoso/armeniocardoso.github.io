@@ -1,6 +1,9 @@
 ---
 title: Auditoria de Desempenho e Otimização de Aplicações Web
 description: Aprenda a identificar gargalos, analisar métricas e otimizar aplicações web utilizando técnicas de auditoria de desempenho.
+sidebar:
+  order: 20
+  label: Auditoria de Desempenho e Otimização de Aplicações Web
 ---
 
 ## A Anatomia da Web Obesa e o Impacto da Lentidão

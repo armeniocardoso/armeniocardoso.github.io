@@ -1,6 +1,9 @@
 ---
 title: Orientação a Objetos
 description: Fundamentos e práticas para modelar software com orientação a objetos.
+sidebar:
+  order: 1
+  label: Orientação a Objetos
 ---
 
 Este espaço reúne conteúdos sobre os conceitos, princípios e padrões usados na construção de sistemas orientados a objetos.

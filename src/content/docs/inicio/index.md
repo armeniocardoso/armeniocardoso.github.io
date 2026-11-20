@@ -1,6 +1,9 @@
 ---
 title: CulturaTEC Engenharia de Software
 description: "Conheça a proposta da CulturaTEC, seus conteúdos educacionais, canais de publicação e iniciativas para compartilhar conhecimento em desenvolvimento de software."
+sidebar:
+  order: 1
+  label: CulturaTEC Engenharia de Software
 ---
 ## Institucional
 Um canal sobre Engenharia de Software, programação, tecnologia e formação profissional, criado para transformar conhecimento técnico em pensamento prático.

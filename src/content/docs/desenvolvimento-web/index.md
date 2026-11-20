@@ -1,6 +1,9 @@
 ---
 title: Desenvolvimento Web
 description: Aprenda desenvolvimento web com conteúdos práticos sobre React, Next.js, JavaScript e tecnologias utilizadas na construção de aplicações web modernas.
+sidebar:
+  order: 1
+  label: Desenvolvimento Web
 ---
 
 

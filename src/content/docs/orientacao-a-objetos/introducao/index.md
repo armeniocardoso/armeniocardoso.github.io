@@ -1,6 +1,9 @@
 ---
 title: Introdução à Orientação a Objetos
 description: Entenda classes, objetos, memória e os fundamentos da orientação a objetos.
+sidebar:
+  order: 10
+  label: Introdução à Orientação a Objetos
 ---
 
 

@@ -1,6 +1,9 @@
 ---
 title: Introdução à Engenharia de Software
 description: Conheça os fundamentos da Engenharia de Software, sua importância e os principais conceitos envolvidos no desenvolvimento de sistemas.
+sidebar:
+  order: 10
+  label: Introdução à Engenharia de Software
 ---
 ## O Conceito de Engenharia
 

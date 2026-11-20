@@ -43,46 +43,131 @@ export default defineConfig({
       customCss: ['./src/styles/custom.css'],
 
       sidebar: [
+        // CulturaTEC
         {
           label: 'CulturaTEC',
-          items: [
-            { autogenerate: { directory: 'inicio' } },
-          ],
+          link: '/inicio/',
         },
+
+        // Programação para Iniciantes
         {
           label: 'Programação para Iniciantes',
+          collapsed: true,
           items: [
-            { autogenerate: { directory: 'programacao-iniciantes' } },
+            {
+              slug: 'programacao-iniciantes',
+              label: 'Visão geral',
+            },
+            'programacao-iniciantes/pensamento-computacional',
+            'programacao-iniciantes/conceito-de-logica',
+            'programacao-iniciantes/algoritmos',
+            'programacao-iniciantes/programacao',
           ],
         },
-        {
-          label: 'Engenharia de Software',
-          items: [
-            { autogenerate: { directory: 'engenharia-de-software' } },
-          ],
-        },
-        {
-          label: 'Desenvolvimento Web',
-          items: [
-            { autogenerate: { directory: 'desenvolvimento-web' } },
-          ],
-        },
-        {
-          label: 'Modelagem de Dados e SQL',
-          items: [
-            { autogenerate: { directory: 'modelagem-dados-sql' } },
-          ],
-        },
+        // Orientação a Objetos
         {
           label: 'Orientação a Objetos',
+          collapsed: true,
           items: [
-            { autogenerate: { directory: 'orientacao-a-objetos' } },
+            {
+              slug: 'orientacao-a-objetos',
+              label: 'Visão geral',
+            },
+            'orientacao-a-objetos/introducao',
+            'orientacao-a-objetos/introducao-java',
+            'orientacao-a-objetos/propriedades-metodos',
+            'orientacao-a-objetos/heranca',
           ],
         },
+        // Engenharia de Software
+        {
+          label: 'Engenharia de Software',
+          collapsed: true,
+          items: [
+            {
+              slug: 'engenharia-de-software',
+              label: 'Visão geral',
+            },
+            {
+              label: 'Fundamentos',
+              collapsed: true,
+              items: [
+                'engenharia-de-software/fundamentos/introducao-engenharia-software',
+                'engenharia-de-software/fundamentos/introducao-requisitos',
+                'engenharia-de-software/fundamentos/processos-de-desenvolvimento-de-software',
+                'engenharia-de-software/fundamentos/introducao-rup',
+                'engenharia-de-software/fundamentos/introducao-modelo-dominio',
+              ],
+            },
+            {
+              label: 'Arquitetura',
+              collapsed: true,
+              items: [
+                'engenharia-de-software/arquitetura/introducao-api-rest',
+              ],
+            },
+            {
+              label: 'Boas Práticas',
+              collapsed: true,
+              items: [
+                'engenharia-de-software/boas-praticas/test-driven-development',
+                'engenharia-de-software/boas-praticas/auditoria-desempenho-otimizacao-aplicacoes-web',
+              ],
+            },
+          ],
+        },
+        // Desenvolvimento Web
+        {
+          label: 'Desenvolvimento Web',
+          collapsed: true,
+          items: [
+            {
+              slug: 'desenvolvimento-web',
+              label: 'Visão geral',
+            },
+            {
+              label: 'React',
+              collapsed: true,
+              items: [
+                {
+                  slug: 'desenvolvimento-web/react',
+                  label: 'Visão geral',
+                },
+              ],
+            },
+            {
+              label: 'Next.js',
+              collapsed: true,
+              items: [
+                {
+                  slug: 'desenvolvimento-web/nextjs',
+                  label: 'Visão geral',
+                },
+                'desenvolvimento-web/nextjs/introducao-nextjs',
+              ],
+            },
+          ],
+        },
+        // Modelagem de Dados e SQL        
+        {
+          label: 'Modelagem de Dados e SQL',
+          collapsed: true,
+          items: [
+            {
+              slug: 'modelagem-dados-sql',
+              label: 'Visão geral',
+            },
+          ],
+        },
+        // Domain-Driven Design
         {
           label: 'Domain-Driven Design',
+          collapsed: true,
           items: [
-            { autogenerate: { directory: 'domain-driven-design' } },
+            {
+              slug: 'domain-driven-design',
+              label: 'Visão geral',
+            },
           ],
         },
       ],

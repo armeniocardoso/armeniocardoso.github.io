@@ -1,6 +1,9 @@
 ---
 title: Introdução ao Modelo de Domínio
 description: Entenda como representar conceitos, entidades e relacionamentos de um domínio de negócio por meio de modelos conceituais.
+sidebar:
+  order: 50
+  label: Introdução ao Modelo de Domínio
 ---
 ## O Conceito de Domínio
 

@@ -1,6 +1,9 @@
 ---
-title: Propriedades e métodos
+title: Propriedades e Métodos
 description: Conheça a anatomia das classes em Java, do encapsulamento à extensibilidade.
+sidebar:
+  order: 30
+  label: Propriedades e Métodos
 ---
 
 ## Estrutura Básica da Classe

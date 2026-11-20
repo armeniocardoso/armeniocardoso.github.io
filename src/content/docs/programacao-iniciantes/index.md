@@ -1,6 +1,9 @@
 ---
 title: Programação para Iniciantes
 description: Aprenda os fundamentos da programação, do pensamento computacional e da lógica à construção de seus primeiros programas.
+sidebar:
+  order: 1
+  label: Programação para Iniciantes
 ---
 
 Aprender a programar vai muito além de conhecer uma linguagem. Antes de escrever código, precisamos aprender a analisar problemas, organizar ideias e descrever soluções de maneira precisa.

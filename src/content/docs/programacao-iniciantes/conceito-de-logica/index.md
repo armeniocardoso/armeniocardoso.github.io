@@ -1,6 +1,9 @@
 ---
 title: O Conceito de Lógica
 description: "Entenda os conceitos de lógica, premissas, raciocínio dedutivo e indutivo, lógica booleana e operadores lógicos aplicados à programação."
+sidebar:
+  order: 20
+  label: O Conceito de Lógica
 ---
 
 Lógica é uma área de conhecimento bem antiga, que dialoga com a filosofia, a matemática e a física. Nos últimos anos, nós a associamos diretamente à computação e à programação. Não estamos falando de uma ciência nova, mas de algo que existe desde que o ser humano começou a pensar e a questionar.
