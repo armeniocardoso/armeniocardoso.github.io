@@ -92,6 +92,13 @@ export default defineConfig({
 					],
 				},
 				{
+					label: 'Desenvolvimento Web',
+					items: [
+						{ slug: 'desenvolvimento-web/react' },
+						{ slug: 'desenvolvimento-web/nextjs' },
+					],
+				},
+				{
 					label: 'Modelagem de Dados e SQL',
 					items: [
 						{ slug: 'modelagem-dados-sql' },
