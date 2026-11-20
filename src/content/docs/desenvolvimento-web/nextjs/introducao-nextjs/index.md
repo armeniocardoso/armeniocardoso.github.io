@@ -1,5 +1,9 @@
-# Introdução ao Next.js e Limitações do React
-
+---
+title: Introdução ao Next.js
+description: Conheça os fundamentos do Next.js.
+sidebar:
+  order: 1
+---
 O React possui uma base instalada gigantesca e é uma plataforma de desenvolvimento muito conhecida e utilizada. No entanto, ele apresenta algumas limitações, e a ideia do Next.js é justamente superar esses gargalos, trazendo tudo o que o React tem a oferecer e expandindo suas capacidades.
 
 O principal dilema do React puro é a questão da Single Page Application executada no client-side. O servidor entrega apenas um HTML vazio, que funciona como um esqueleto estrutural para ser usado pelo JavaScript. Quando esse pacote chega ao navegador, o JavaScript é executado sobre esse esqueleto HTML, e só então ocorre a renderização. O JSX é transformado, gerando o HTML e produzindo a estrutura dos componentes visuais.

@@ -1,6 +1,6 @@
 ---
-title: React: Fundamentos e Desenvolvimento de Interfaces
-description: Aprenda React com JavaScript: componentes, JSX, props, estado, hooks e boas práticas para desenvolver interfaces de usuário modernas e reutilizáveis.
+title: Fundamentos e Desenvolvimento de Interfaces com React
+description: Aprenda React com JavaScript - componentes, JSX, props, estado, hooks e boas práticas para desenvolver interfaces de usuário modernas e reutilizáveis.
 ---
 O React é uma biblioteca JavaScript utilizada para construir interfaces de usuário. Criado pelo Facebook (atual Meta), tornou-se uma das principais tecnologias utilizadas no desenvolvimento de aplicações web modernas.
 

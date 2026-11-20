@@ -1,5 +1,5 @@
 ---
-title: Next.js: Desenvolvimento de Aplicações Web com React
+title: Desenvolvimento de Aplicações Web com Next.js
 description: Aprenda Next.js, framework baseado em React, explorando SSR, SSG, ISR, App Router, Server Components, roteamento e estratégias de renderização de aplicações web.
 ---
 O React oferece os recursos necessários para construir interfaces de usuário, mas desenvolver uma aplicação web completa envolve outras preocupações: roteamento, renderização das páginas, integração com serviços, otimização de desempenho e mecanismos de entrega de conteúdo.
