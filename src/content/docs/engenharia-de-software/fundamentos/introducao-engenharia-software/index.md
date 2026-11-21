@@ -6,7 +6,9 @@ sidebar:
   label: Introdução à Engenharia de Software
 ---
 ## Assista à explicação em vídeo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-5J_Ib_dWIg?si=xgkfPJd8MzWYiIbf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>## O Conceito de Engenharia
+<iframe width="840" height="680" src="https://www.youtube.com/embed/-5J_Ib_dWIg?si=xgkfPJd8MzWYiIbf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## O Conceito de Engenharia
 
 Mergulhando na teoria, a engenharia é a aplicação de métodos do conhecimento científico ou empírico, ou seja, a união da teoria e da prática, destinados à utilização de recursos materiais e naturais para o benefício do ser humano. É uma área do conhecimento que aborda os conceitos de projeção, desenvolvimento, construção, análise e manutenção de alternativas que auxiliem e facilitem a vida da sociedade nas atividades cotidianas.
 
