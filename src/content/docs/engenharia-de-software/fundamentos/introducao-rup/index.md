@@ -5,6 +5,9 @@ sidebar:
   order: 30
   label: Introdução ao RUP
 ---
+## Assista à explicação em vídeo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0p1p25eDpzM?si=YCCgIK0sDZ0L0zLZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Origem e Diferença entre RUP e UP
 
 O Rational Unified Process, ou RUP, foi criado junto com a UML pelos mesmos três criadores da linguagem de modelagem - Grady Booch, James Rumbaugh e Ivar Jacobson. Eles não se deram por satisfeitos em criar apenas uma notação e desenvolveram um processo para ser utilizado em conjunto com ela. O nome deriva da empresa que eles fundaram, a Rational Software. Essa empresa cresceu, fez muito sucesso com a adoção do RUP e da UML pelo mercado, e acabou sendo comprada pela IBM, que incorporou todos os ativos intelectuais ao seu ecossistema. Hoje, a IBM possui um conjunto de ferramentas de modelagem que inclui o Rational Rose.

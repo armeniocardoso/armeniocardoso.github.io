@@ -5,6 +5,9 @@ sidebar:
   order: 20
   label: Processos de Desenvolvimento de Software
 ---
+## Assista à explicação em vídeo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tmb3V5eiT6Q?si=L1rUcom5pxz-BaNe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Diferença entre Processo e Metodologia
 
 Existe uma diferença muito importante entre processo e metodologia. A palavra metodologia carrega o sufixo "logia", que significa estudo, ou seja, estudo do método. As instituições comerciais dificilmente possuem um departamento de metodologia. Em geral, a metodologia existe dentro de faculdades, universidades e centros de pesquisa, onde os estudiosos geram ciência e desenvolvem o estudo do método.
