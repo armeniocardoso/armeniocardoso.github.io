@@ -2,7 +2,7 @@
 title: Processos de Desenvolvimento de Software
 description: Entenda como os processos de desenvolvimento organizam atividades, responsabilidades e etapas na construção de sistemas.
 sidebar:
-  order: 30
+  order: 20
   label: Processos de Desenvolvimento de Software
 ---
 ## Diferença entre Processo e Metodologia

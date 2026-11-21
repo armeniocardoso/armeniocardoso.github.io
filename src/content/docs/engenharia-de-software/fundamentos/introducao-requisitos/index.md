@@ -2,7 +2,7 @@
 title: Introdução à Engenharia de Requisitos
 description: Aprenda os fundamentos da Engenharia de Requisitos, incluindo requisitos funcionais, não funcionais, documentação e priorização.
 sidebar:
-  order: 20
+  order: 40
   label: Introdução à Engenharia de Requisitos
 ---
 Vamos falar dos requisitos, abordando primeiro a teoria e depois a prática. A teoria é um ponto importante. O que são os requisitos? Neste momento, já começamos a pensar na modelagem do sistema. Os requisitos expressam as características e restrições do produto de software do ponto de vista da satisfação das necessidades do usuário.

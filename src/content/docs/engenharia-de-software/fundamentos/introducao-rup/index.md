@@ -2,7 +2,7 @@
 title: Introdução ao RUP
 description: Conheça o Rational Unified Process, suas fases, disciplinas e características como processo de desenvolvimento de software.
 sidebar:
-  order: 40
+  order: 30
   label: Introdução ao RUP
 ---
 ## Origem e Diferença entre RUP e UP
