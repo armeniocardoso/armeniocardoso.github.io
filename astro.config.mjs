@@ -92,10 +92,10 @@ export default defineConfig({
               label: 'Fundamentos',
               collapsed: true,
               items: [
-                'engenharia-de-software/fundamentos/introducao-engenharia-software',
-                'engenharia-de-software/fundamentos/introducao-requisitos',
+                'engenharia-de-software/fundamentos/introducao-engenharia-software',                
                 'engenharia-de-software/fundamentos/processos-de-desenvolvimento-de-software',
                 'engenharia-de-software/fundamentos/introducao-rup',
+                'engenharia-de-software/fundamentos/introducao-requisitos',
                 'engenharia-de-software/fundamentos/introducao-modelo-dominio',
               ],
             },
